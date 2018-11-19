@@ -22,7 +22,7 @@ A graduate in statistics with affinity in technololgy. A strategically-oriented 
 
 ## Trainings
 * Jul. 2018:	Open Data Management in Agriculture and Nutrition, FAO
-* Dec. 2017 – Mar. 2018:	Advanced Course on Software Licensing including Open Source for the World Bank, WIPO
+* Dec. 2017 – Mar. 2018:	Advanced Course on Software Licensing including Open Source,  World Bank/WIPO
 * Sep - Oct. 2014: 	Developing Data Products, Coursera
 * Apr - May. 2014: 	R Programing, Coursera
 * Jun. 2014: 	Plant Variety Protection, UPOV
