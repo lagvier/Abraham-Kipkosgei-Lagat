@@ -16,7 +16,7 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
 
 * Healthcare-related
   * [CDC Train](https://www.cdc.gov/learning/)
-  * [WHO] (https://openwho.org)
+  * [WHO](https://openwho.org)
   * [Global Health Learning](https://www.globalhealthlearning.org)
   * [Measure Evaluation](https://www.measureevaluation.org/resources/training)
   * [NextGenU](http://nextgenu.org/pages/courses.php)
