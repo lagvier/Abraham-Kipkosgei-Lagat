@@ -1,4 +1,4 @@
-# [Abraham Kipkosgei Lagat](https://www.linkedin.com/in/lagvier)
+# [Abraham Kipkosgei Lagat](https://www.linkedin.com/in/lagvier){:target="_blank"}
 
 Career Information. Academic growth, professional experience, research work and personal interests
 
