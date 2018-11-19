@@ -22,10 +22,10 @@ A graduate in statistics with affinity in technololgy. A strategically-oriented 
 
 ## Trainings
 * Jul. 2018:	Open Data Management in Agriculture and Nutrition, FAO
-* Dec. `17 – Mar. ‘18:	Advanced Course on Software Licensing including Open Source for the World Bank, WIPO
+* Dec. 2017 – Mar. 2018:	Advanced Course on Software Licensing including Open Source for the World Bank, WIPO
 * Sep - Oct. 2014: 	Developing Data Products, Coursera
 * Apr - May. 2014: 	R Programing, Coursera
-* Jun. 2013: 	Meeting of Technical Working Party on Computer Programs and Automation(TWC), Seoul Korea, UPOV
+* Jun. 2014: 	Plant Variety Protection, UPOV
 * Sep. - Oct. 2012: 	Computing for Data Analysis (Introduction to R), Coursera
 * Jun. 2011: 		M & E Fundamentals, Measure Evaluation & USAID 
 * Aug-Nov. 2010: 	Fundamentals of Project Management, PM4DEV 
