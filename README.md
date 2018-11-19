@@ -131,9 +131,9 @@ To learn and identify areas of improvements and knowledge transfer on the follow
 ---
 
 ## Membership
-*	The International Biometric Society (IBS)	Joined 2012
-*	The International Statistical Institute (ISI) 	Joined 2013
-*	The American Statistical Association (ASA)	Joined 2016
-*	European Network of Business and Industrial Statistics (ENBIS)	Joined 2013
+*	The International Biometric Society (IBS)	&nbsp;	Joined 2012
+*	The International Statistical Institute (ISI) 	&nbsp;	 Joined 2013
+*	The American Statistical Association (ASA)	&nbsp; Joined 2016
+*	European Network of Business and Industrial Statistics (ENBIS)	&nbsp;	Joined 2013
 
 ---
