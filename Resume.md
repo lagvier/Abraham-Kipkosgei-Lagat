@@ -1,15 +1,13 @@
 # [Abraham Kipkosgei Lagat](https://www.linkedin.com/in/lagvier)
 
-Career Information. Academic growth, professional experience, research work and personal interests.
-
-
 [Linkedin](https://www.linkedin.com/in/lagvier) &nbsp; &nbsp;
 [twitter](https://twitter.com/lagvier) &nbsp; &nbsp;
 [Github](https://github.com/lagvier/) &nbsp; &nbsp;
-
-## Personal profile 
+---
+## Profile 
 
 A graduate in statistics with affinity in technololgy. A strategically-oriented statistical and data management professional experienced in use various application software and knowledge intellectual property protection including licensing of Free and Open Source Software. Interested in utilizing machine learning and IoT technologies. Motivated, results-oriented, fast-learner, adaptable. 
+
 ---
 
 ## Education Qualifications:
