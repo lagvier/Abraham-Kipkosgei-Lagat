@@ -1,9 +1,9 @@
 
-**Personal information detailing:
+## Personal information detailing:
 
- [x] [Career and professional experience](https://github.com/lagvier/Abraham-Kipkosgei-Lagat/blob/master/Resume.md)
+- [x] [Career and professional experience](https://github.com/lagvier/Abraham-Kipkosgei-Lagat/blob/master/Resume.md)
 
- [ ] ... and more to be added
+- [ ] ... and more to be added
 
 ---
 Updated by
