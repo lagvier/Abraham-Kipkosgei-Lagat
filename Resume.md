@@ -1,8 +1,4 @@
 # [Abraham Kipkosgei Lagat](https://www.linkedin.com/in/lagvier)
-
-[Linkedin](https://www.linkedin.com/in/lagvier) &nbsp; &nbsp;
-[twitter](https://twitter.com/lagvier) &nbsp; &nbsp;
-[Github](https://github.com/lagvier/) &nbsp; &nbsp;
 ---
 ## Profile 
 
@@ -129,3 +125,7 @@ To learn and identify areas of improvements and knowledge transfer on the follow
 *	European Network of Business and Industrial Statistics (ENBIS)	&nbsp;	Joined 2013
 
 ---
+## Personal profiles
+ [Linkedin](https://www.linkedin.com/in/lagvier) &nbsp; &nbsp;
+ [twitter](https://twitter.com/lagvier) &nbsp; &nbsp;
+ [Github](https://github.com/lagvier/) &nbsp; &nbsp;
