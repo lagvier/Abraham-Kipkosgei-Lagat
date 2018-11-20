@@ -1,4 +1,4 @@
-## Introduction
+## About
 
 A curated list diverse courses and training offered as on self-paced Massive Online Courses (MOOC) in different topics. This list will continue to be updated.
 
