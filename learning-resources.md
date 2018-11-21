@@ -13,8 +13,9 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [KHAN Academy](https://www.khanacademy.org)
   * [Stanford online](https://lagunita.stanford.edu)
   * [Science Supercourse](http://ssc.bibalex.org/home/list.jsf)
+  * [EDUCBA](https://www.educba.com)
 
-* Healthcare-related
+* Healthcare
   * [CDC Train](https://www.cdc.gov/learning/)
   * [WHO](https://openwho.org)
   * [Global Health Learning](https://www.globalhealthlearning.org)
