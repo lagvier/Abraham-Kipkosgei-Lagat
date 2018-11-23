@@ -1,5 +1,5 @@
 
-## Personal information detailing:
+## Personal Reference:
 
 - [x] [Career and professional experience](https://github.com/lagvier/Abraham-Kipkosgei-Lagat/blob/master/Resume.md)
 - [x] [MOOC Courses](https://github.com/lagvier/Abraham-Kipkosgei-Lagat/blob/master/learning-resources.md) 
