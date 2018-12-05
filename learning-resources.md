@@ -32,3 +32,5 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
 * Research and Proposal Writing
   * [EBBP](https://ebbp.org/training/overview)
   
+* Other learning resources
+  * [RSpatial](http://rspatial.org/rs/index.html)
