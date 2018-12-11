@@ -29,7 +29,7 @@ A graduate in statistics with affinity in technololgy. A strategically-oriented 
 ---
 
 ## Publications and Conference Contributions
-* Lagat, A., Biwott, C. and Komen, R. (2018).  Modeling temporal volatility of farm produce prices in Kenya. Paper presented at: *13th JKUAT Scientific Conference.* November 15–16. Nairobi, Kenya
+* Lagat, A., Biwott, C. and Komen, R. (2018).  [Modeling temporal volatility of farm produce prices in Kenya](http://jkuat.ac.ke/projects/africa-ai-japan/wp-content/uploads/2018/10/Invitation-Call-for-Paper_JKUAT-Scientific-Conference.pdf). Paper presented at: *13th JKUAT Scientific Conference.* November 15–16. Nairobi, Kenya
 * Tom A., et al (2018). [Health disparities across the counties of Kenya and implications for policy makers, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016](https://bit.ly/2Q8Za32). *The Lancet Global Health*. 
 * Lagat, A., Waititu, A. and Wanjoya, A. (2018). [Support Vector Regression and Neural Network Approaches. Case of Economic Growth in East Africa Community](https://bit.ly/2CMZMr4). *American Journal of Theoretical and Applied Statistics*, 7(2). pp. 67-79.   
 * Lagat, A., Waititu, A., Wanjoya, A. (2017). [Support Vector Regression and Artificial Neural Network Approaches: Case of Economic Growth in East Africa Community](http://payment.isi2017.org/wp-content/images/Schedule.pdf). Poster Session at: *61st World Statistics Congress; July 16-21*. Marrakech, Morocco.
