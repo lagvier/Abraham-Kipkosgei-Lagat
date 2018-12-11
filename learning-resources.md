@@ -14,7 +14,8 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [Stanford online](https://lagunita.stanford.edu)
   * [Science Supercourse](http://ssc.bibalex.org/home/list.jsf)
   * [EDUCBA](https://www.educba.com)
-
+  * [Andela](https://learning-digest.andela.com/)
+  
 * Healthcare
   * [CDC Train](https://www.cdc.gov/learning/)
   * [WHO](https://openwho.org)
@@ -38,3 +39,5 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
 * Data Sources
   * [WHO - Immunization](http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tscoveragemcv1.html)
   * [WHO - SDG Monitoring](http://apps.who.int/gho/data/node.sdg)
+
+  
