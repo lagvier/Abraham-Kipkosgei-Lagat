@@ -4,3 +4,5 @@
 * [Timezones](http://www.timebie.com/timezone/newyorkkenya.php)
 ## Google
 * [Google Local Guide](https://support.google.com/local-guides/answer/6225851?hl=en)
+## Ebooks
+* [cyber.rms.moe](https://cyber.rms.moe/books/)
