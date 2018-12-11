@@ -6,3 +6,12 @@
 * [Google Local Guide](https://support.google.com/local-guides/answer/6225851?hl=en)
 ## Ebooks
 * [cyber.rms.moe](https://cyber.rms.moe/books/)
+## Funding information
+* [Aga Khan](http://www.akdn.org/our-agencies/aga-khan-foundation/scholarship)
+* [Science | AAAS](http://www.sciencemag.org/careers/where-search-funding)
+* [Oxford](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/scholarships-a-z-listing?wssl=1)
+* [UoN](http://dvcrpe.uonbi.ac.ke/content/funding-opportunities-0)
+* [Funds for NGOs](https://www2.fundsforngos.org/tag/kenya/)
+* [TUK](http://research.tukenya.ac.ke/index.php/funding/external-funding-opportunities)
+* [Opportunity desk](http://www.opportunitydesk.org/tag/kenya)
+* [IEEE](https://www.ieeefoundation.org/grants)
