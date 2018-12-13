@@ -6,6 +6,7 @@
 * [Google Local Guide](https://support.google.com/local-guides/answer/6225851?hl=en)
 ## Ebooks
 * [cyber.rms.moe](https://cyber.rms.moe/books/)
+* [Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 ## Funding information
 * [Aga Khan](http://www.akdn.org/our-agencies/aga-khan-foundation/scholarship)
 * [Science | AAAS](http://www.sciencemag.org/careers/where-search-funding)
