@@ -131,4 +131,4 @@ To learn and identify areas of improvements and knowledge transfer on the follow
  [Linkedin](https://www.linkedin.com/in/lagvier) &nbsp; &nbsp;
  [Github](https://github.com/lagvier/) &nbsp; &nbsp;
  [twitter](https://twitter.com/lagvier) &nbsp; &nbsp;
- [Facebook](https://www.facebook.com/lagvier){:target="_blank"} &nbsp; &nbsp;
+ [Facebook](https://www.facebook.com/lagvier) &nbsp; &nbsp;
