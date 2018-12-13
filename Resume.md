@@ -128,11 +128,11 @@ To learn and identify areas of improvements and knowledge transfer on the follow
 
 ---
 ## Personal profiles
-<a href="https://www.linkedin.com/in/lagvier" target="blank">Linkedin</a>
-<a href="https://twitter.com/lagvier" target="blank">Twitter</a>
+<a href="" target="blank">Linkedin</a>
+<a href="https://twitter.com/lagvier" target="_blank">Twitter</a>
 <a href="https://www.facebook.com/lagvier" target="blank">Facebook</a>
 
- [Linkedin](){:target="_blank"} &nbsp; &nbsp;
+ [Linkedin](https://www.linkedin.com/in/lagvier){:target="_blank"} &nbsp; &nbsp;
  [twitter](){:target="_blank"} &nbsp; &nbsp;
  [Github](https://github.com/lagvier/){:target="_blank"} &nbsp; &nbsp;
  [Facebook](){:target="_blank"} &nbsp; &nbsp;
