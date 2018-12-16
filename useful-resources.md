@@ -16,3 +16,5 @@
 * [TUK](http://research.tukenya.ac.ke/index.php/funding/external-funding-opportunities)
 * [Opportunity desk](http://www.opportunitydesk.org/tag/kenya)
 * [IEEE](https://www.ieeefoundation.org/grants)
+## Animated images
+* [images](http://caccioppoli.com/Animations/)
