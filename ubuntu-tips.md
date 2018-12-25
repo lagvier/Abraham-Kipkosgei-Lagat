@@ -5,5 +5,6 @@
   * [handbrake](https://handbrake.fr/)
 * Installing MS Azure Resources
   * https://gloveboxes.github.io/Ubuntu-for-Azure-Developers/docs/Ubuntu1804.html
-  
+* Electronics
+  * [Fritzing](http://fritzing.org/)
   
