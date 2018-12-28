@@ -21,3 +21,4 @@
 ##### Data
 * [Weather](https://openweathermap.org/)
 * [UN Statistics](https://unstats.un.org/home/)
+* [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
