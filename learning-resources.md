@@ -40,4 +40,6 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [WHO - Immunization](http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tscoveragemcv1.html)
   * [WHO - SDG Monitoring](http://apps.who.int/gho/data/node.sdg)
 
+* Project Management
+  * [M&E for National Program Planning and Management](https://www.globalhealthlearning.org/sites/default/files/page-files/NP_Participant_Manual1.pdf)
   
