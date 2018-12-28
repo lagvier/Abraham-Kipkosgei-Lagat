@@ -21,4 +21,5 @@
 ##### Data
 * [Weather](https://openweathermap.org/)
 * [UN Statistics](https://unstats.un.org/home/)
+* [Zika Virus](https://github.com/cdcepi/zika)
 * [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
