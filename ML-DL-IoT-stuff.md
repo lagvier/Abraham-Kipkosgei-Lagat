@@ -4,6 +4,7 @@
 * [Download images from google](https://github.com/rytoj/google-images-download)
 * [Fastai](https://github.com/fastai/fastai)
 * [Keras](https://keras.io/)
+* [Google AI](https://ai.google/)
 
 #### IoT resources
 
