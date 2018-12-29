@@ -42,6 +42,7 @@
   * [NAFIS](http://www.nafis.go.ke/wp-content/uploads/)
   * [Quakes](http://ds.iris.edu/sm2/eventlist/)
   * [UN Economic Commission for Europe](https://w3.unece.org/PXWeb/en)
+  * [Diverse Data](https://data.humdata.org/dataset)
   
 ##### Business
    * [Regulations](https://kenya.eregulations.org/)
