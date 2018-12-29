@@ -18,6 +18,7 @@
 * [Opportunity desk](http://www.opportunitydesk.org/tag/kenya)
 * [IEEE](https://www.ieeefoundation.org/grants)
 * [WHO](https://www.who.int/management/newitems/en/index5.html)
+* [Bill & Melinda Gates](https://gcgh.grandchallenges.org/)
 
 ##### Animated images
 * [images](http://caccioppoli.com/Animations/)
@@ -40,6 +41,7 @@
   * [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
   * [NAFIS](http://www.nafis.go.ke/wp-content/uploads/)
   * [Quakes](http://ds.iris.edu/sm2/eventlist/)
+  * [UN Economic Commission for Europe](https://w3.unece.org/PXWeb/en)
   
 ##### Business
    * [Regulations](https://kenya.eregulations.org/)
