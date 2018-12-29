@@ -17,6 +17,7 @@
 * [TUK](http://research.tukenya.ac.ke/index.php/funding/external-funding-opportunities)
 * [Opportunity desk](http://www.opportunitydesk.org/tag/kenya)
 * [IEEE](https://www.ieeefoundation.org/grants)
+* [WHO](https://www.who.int/management/newitems/en/index5.html)
 
 ##### Animated images
 * [images](http://caccioppoli.com/Animations/)
@@ -45,4 +46,6 @@
    * [Auctions](https://www.auctionskenya.com/)
    * [Patents](https://www.cipit.org/index.php/blog/resources/databases/17-general-publications/1456-granted-patents)
    * [Startup valuation](https://www.caycon.com/valuation.php)
+   * [Geostartups](http://geoawesomeness.com/)
+   * [Startup resources](https://steveblank.com/tools-and-blogs-for-entrepreneurs/#marketresearch%20freepik.com)
    
