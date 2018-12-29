@@ -27,8 +27,9 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
 * Emergency/First Aid
   * [ACLS Certification Institute](https://acls.com/free-resources)
  
-* Basic Statistics
+* Statistics
   * [Basic Biostatistics](http://biostatcourse.fiu.edu)
+  * [UCLA Stat](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
   
 * Research and Proposal Writing
   * [EBBP](https://ebbp.org/training/overview)
@@ -36,6 +37,7 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
 * Other learning resources
   * [RSpatial](http://rspatial.org/rs/index.html)
   * [SAS Proceedings](https://nairobiaccidentmap.com/)
+  * [Reproducible research](http://kbroman.org/Tools4RR/pages/resources.html)
 
 * Data Sources
   * [WHO - Immunization](http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tscoveragemcv1.html)
@@ -44,3 +46,5 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
 * Project Management
   * [M&E for National Program Planning and Management](https://www.globalhealthlearning.org/sites/default/files/page-files/NP_Participant_Manual1.pdf)
   
+ * Business
+   * [Kenya](https://kenya.eregulations.org/)
