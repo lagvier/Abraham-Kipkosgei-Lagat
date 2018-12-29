@@ -39,3 +39,8 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [SAS Proceedings](https://nairobiaccidentmap.com/)
   * [Reproducible research](http://kbroman.org/Tools4RR/pages/resources.html)
   * [Shiny apps](http://stat545.com/shiny01_activity.html)
+
+* Ebooks
+  * [cyber.rms.moe](https://cyber.rms.moe/books/)
+  * [Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+  * [Gutenberg project](http://www.gutenberg.org)
