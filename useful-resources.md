@@ -25,3 +25,4 @@
 * [UN Statistics](https://unstats.un.org/home/)
 * [Zika Virus](https://github.com/cdcepi/zika)
 * [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
+* [NAFIS](http://www.nafis.go.ke/wp-content/uploads/)
