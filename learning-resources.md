@@ -15,6 +15,7 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [Science Supercourse](http://ssc.bibalex.org/home/list.jsf)
   * [EDUCBA](https://www.educba.com)
   * [Andela](https://learning-digest.andela.com/)
+  * [WorldBank Academy](https://olc.worldbank.org/wbg-academy)
   
 * Healthcare
   * [CDC Train](https://www.cdc.gov/learning/)
@@ -33,6 +34,7 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   
 * Research and Proposal Writing
   * [EBBP](https://ebbp.org/training/overview)
+  * [Scientific Paper checklist](http://www.lithoguru.com/scientist/litho_papers/JM3%20Editorial%202015%20q2_Checklist.pdf)
   
 * Other learning resources
   * [RSpatial](http://rspatial.org/rs/index.html)
