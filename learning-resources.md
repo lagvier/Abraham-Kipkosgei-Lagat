@@ -39,19 +39,3 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [SAS Proceedings](https://nairobiaccidentmap.com/)
   * [Reproducible research](http://kbroman.org/Tools4RR/pages/resources.html)
   * [Shiny apps](http://stat545.com/shiny01_activity.html)
-
-* Data Sources
-  * [WHO - Immunization](http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tscoveragemcv1.html)
-  * [WHO - SDG Monitoring](http://apps.who.int/gho/data/node.sdg)
-  * Webcams: [Traffic](https://traffic.is.co.ke/), [Special](https://www.meteoblue.com/en/weather/forecast/webcams/nairobi_kenya_184745)
-  * [CDAS data](https://pypi.org/project/ai.cdas/)
-  * [NASA API](https://data.nasa.gov/),[ NASA](https://api.nasa.gov/api.html#genelab),[ NASA Sounds](https://www.nasa.gov/connect/sounds/index.html)
-  * [FAOSTAT](http://www.fao.org/faostat/en/#data)
-  * [Global fires](http://www.globalfiredata.org/)
-  
-* Project Management
-  * [M&E for National Program Planning and Management](https://www.globalhealthlearning.org/sites/default/files/page-files/NP_Participant_Manual1.pdf)
-  
- * Business
-   * [Kenya](https://kenya.eregulations.org/)
-   * [Auctions](https://www.auctionskenya.com/)
