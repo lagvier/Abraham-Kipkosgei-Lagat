@@ -1,5 +1,6 @@
 ##### R/Rstudio and Python
 * [Rstudio server - Digital ocean](https://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean)
+* [Rstudio server - Ubuntu desktop](https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04)
 ##### Conversions
 * [Timezones](http://www.timebie.com/timezone/newyorkkenya.php)
 ##### Google
