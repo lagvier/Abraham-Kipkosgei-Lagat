@@ -19,6 +19,7 @@
 * [IEEE](https://www.ieeefoundation.org/grants)
 * [WHO](https://www.who.int/management/newitems/en/index5.html)
 * [Bill & Melinda Gates](https://gcgh.grandchallenges.org/)
+* [NRF](www.researchfund.go.ke)
 
 ##### Animated images
 * [images](http://caccioppoli.com/Animations/)
@@ -43,6 +44,7 @@
   * [Quakes](http://ds.iris.edu/sm2/eventlist/)
   * [UN Economic Commission for Europe](https://w3.unece.org/PXWeb/en)
   * [Diverse Data](https://data.humdata.org/dataset)
+  * [DHS](https://dhsprogram.com/data/available-datasets.cfm)
   
 ##### Business
    * [Regulations](https://kenya.eregulations.org/)
