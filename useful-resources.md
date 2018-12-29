@@ -38,7 +38,11 @@
   * [Zika Virus](https://github.com/cdcepi/zika)
   * [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
   * [NAFIS](http://www.nafis.go.ke/wp-content/uploads/)
+  * [Quakes](http://ds.iris.edu/sm2/eventlist/)
   
 ##### Business
-   * [Kenya](https://kenya.eregulations.org/)
+   * [Regulations](https://kenya.eregulations.org/)
    * [Auctions](https://www.auctionskenya.com/)
+   * [Patents](https://www.cipit.org/index.php/blog/resources/databases/17-general-publications/1456-granted-patents)
+   * [Startup valuation](https://www.caycon.com/valuation.php)
+   
