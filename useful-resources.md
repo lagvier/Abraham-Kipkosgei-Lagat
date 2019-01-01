@@ -27,6 +27,8 @@
 ##### Project Management
   * [M&E for National Program Planning and Management](https://www.globalhealthlearning.org/sites/default/files/page-files/NP_Participant_Manual1.pdf)
   * [Lean toolkit](http://lean.nh.gov/documents/Lean_IT_toolkit_120915.pdf)
+  * [Quire](https://quire.io/)
+  * [Asana](https://asana.com/)
  
 ##### Data Sources
   * [WHO - Immunization](http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tscoveragemcv1.html)
