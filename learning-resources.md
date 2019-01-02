@@ -41,6 +41,7 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
   * [Gutenberg project](http://www.gutenberg.org)
   * [BioInformatics](ftp://ftp.ufv.br/dbg/)
+  * <a href="ftp://ftp.ufv.br/dbg/">BioInformatics</a>
   * [Collections](http://www.electronicsandbooks.com/eab3/manual/)
   * [Collections](https://analytixon.com/ebooks/)
 
