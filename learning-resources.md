@@ -36,13 +36,6 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [EBBP](https://ebbp.org/training/overview)
   * [Scientific Paper checklist](http://www.lithoguru.com/scientist/litho_papers/JM3%20Editorial%202015%20q2_Checklist.pdf)
   
-* Other learning resources
-  * [RSpatial](http://rspatial.org/rs/index.html)
-  * [SAS Proceedings](https://nairobiaccidentmap.com/)
-  * [Reproducible research](http://kbroman.org/Tools4RR/pages/resources.html)
-  * [Shiny apps](http://stat545.com/shiny01_activity.html)
-  * [SAS](https://www.sas.com/en_us/software/university-edition/download-software.html#linux)
-
 * Ebooks
   * [cyber.rms.moe](https://cyber.rms.moe/books/)
   * [Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
@@ -50,3 +43,11 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [BioInformatics](ftp://ftp.ufv.br/dbg/material%20curso%20bioinfo/Leitura%20Complementar/livros/)
   * [Collections](http://www.electronicsandbooks.com/eab3/manual/)
   * [Collections](https://analytixon.com/ebooks/)
+
+* Other learning resources
+  * [RSpatial](http://rspatial.org/rs/index.html)
+  * [SAS Proceedings](https://nairobiaccidentmap.com/)
+  * [Reproducible research](http://kbroman.org/Tools4RR/pages/resources.html)
+  * [Shiny apps](http://stat545.com/shiny01_activity.html)
+  * [SAS](https://www.sas.com/en_us/software/university-edition/download-software.html#linux)
+  * [Wolfram|Alpha](https://www.wolframalpha.com/)
