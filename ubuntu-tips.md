@@ -13,7 +13,7 @@
   * [Install android studio]()
    ``` 
    sudo apt install -y gcc-multilib g++-multilib libc6-dev-i386 qemu-kvm mesa-utils
-   # Download android studio from:[here](https://developer.android.com/studio/index.html)
+   # Download android studio from: https://developer.android.com/studio/index.html
    unzip android-studio-ide-145.3360264-linux.zip -d ~/bin
    ~/bin/android-studio/bin/studio.sh # and follow prompts
    ```
