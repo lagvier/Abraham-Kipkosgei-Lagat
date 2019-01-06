@@ -50,6 +50,7 @@
   * [freebase](https://developers.google.com/freebase/)
   * [ARCGis Open Data](https://hub.arcgis.com/pages/open-data)
   * [UNEP Data](http://geodata.grid.unep.ch/)
+  * [Companies](https://opencorporates.com/companies?jurisdiction_code=&q=&utf8=%E2%9C%93)
   
 ##### Business
    * [Regulations](https://kenya.eregulations.org/)
