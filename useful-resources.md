@@ -47,6 +47,9 @@
   * [UN Economic Commission for Europe](https://w3.unece.org/PXWeb/en)
   * [Diverse Data](https://data.humdata.org/dataset)
   * [DHS](https://dhsprogram.com/data/available-datasets.cfm)
+  * [freebase](https://developers.google.com/freebase/)
+  * [ARCGis Open Data](https://hub.arcgis.com/pages/open-data)
+  * [UNEP Data](http://geodata.grid.unep.ch/)
   
 ##### Business
    * [Regulations](https://kenya.eregulations.org/)
