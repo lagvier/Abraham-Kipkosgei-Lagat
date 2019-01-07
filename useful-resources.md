@@ -62,3 +62,9 @@
   
  ##### Website and app development
    * [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+#### NSE Market
+  * [NSE](https://www.nse.co.ke)
+  * [Rich](http://live.rich.co.ke/bdexp/index.php)
+  * [Mystocks](https://www.mystocks.co.ke)
+  * [Investing](https://www.investing.com/indices/nairobi-all-share-components)
