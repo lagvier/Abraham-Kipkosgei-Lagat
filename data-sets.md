@@ -19,4 +19,4 @@ list of repositories with open dastasets:
   * [ARCGis Open Data](https://hub.arcgis.com/pages/open-data)
   * [UNEP Data](http://geodata.grid.unep.ch/)
   * [Companies](https://opencorporates.com/companies?jurisdiction_code=&q=&utf8=%E2%9C%93)
-  * [ILRI External](http://data.ilri.org/portal/dataset?organization=ilri) [ILRI](http://data.ilri.org/portal/dataset)
+  * [ILRI External](http://data.ilri.org/portal/dataset?organization=ilri) | [ILRI](http://data.ilri.org/portal/dataset)
