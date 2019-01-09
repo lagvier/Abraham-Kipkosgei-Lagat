@@ -7,6 +7,7 @@
 * [Google AI](https://ai.google/)
 * [Spark ML](http://mleap-docs.combust.ml/demos/mnist.html)
 * [OpenCV](https://emea3.recruitmentplatform.com)
+* [Notes](https://www.datafuckingscience.com/)
 
 #### IoT resources
 
