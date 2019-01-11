@@ -37,6 +37,7 @@
    * [Startup valuation](https://www.caycon.com/valuation.php)
    * [Geostartups](http://geoawesomeness.com/)
    * [Startup resources](https://steveblank.com/tools-and-blogs-for-entrepreneurs/#marketresearch%20freepik.com)
+   * [Procedures](https://infotradekenya.go.ke/)
   
  ##### Website and app development
    * [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
