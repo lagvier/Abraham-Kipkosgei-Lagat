@@ -3,6 +3,9 @@
   * https://medium.com/datadriveninvestor/install-tensorflow-gpu-to-use-nvidia-gpu-on-ubuntu-18-04-do-ai-71b0ce64ebc5
 * Media
   * [handbrake](https://handbrake.fr/)
+  * [You-DL](https://rg3.github.io/youtube-dl/):
+    * Download song/video: ```you-dl https://www.youtube.com/watch?v=KIkQ7YVys_A```
+    * Download playlis ```you-dl -i --yes-playlist https://www.youtube.com/watch?list=PLF6232442472E33F3```
 * Installing MS Azure Resources
   * https://gloveboxes.github.io/Ubuntu-for-Azure-Developers/docs/Ubuntu1804.html
 * Electronics
