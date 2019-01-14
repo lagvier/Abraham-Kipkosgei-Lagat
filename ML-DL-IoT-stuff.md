@@ -9,6 +9,7 @@
 * [OpenCV](https://emea3.recruitmentplatform.com)
 * [Notes](https://www.datafuckingscience.com/)
 * [NIPS Proceedings](http://papers.nips.cc)
+* [Max Kuhn's blog](http://topepo.github.io/caret/index.html)
 
 #### IoT resources
 
