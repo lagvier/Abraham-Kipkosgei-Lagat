@@ -22,3 +22,4 @@ list of repositories with open dastasets:
   * [ILRI External](http://data.ilri.org/portal/dataset?organization=ilri) | [ILRI](http://data.ilri.org/portal/dataset)
   * [Africa open data](https://africaopendata.org/datarequest)
   * [TranStatsData](https://transtats.bts.gov/ftproot/TranStatsData/)
+  * [Satellite data sources](https://gisgeography.com/free-satellite-imagery-data-list/)
