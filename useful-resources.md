@@ -55,3 +55,6 @@
 
 #### Presentations
   * [Cartoons photos/sketches](https://www.123rf.com)
+  
+#### Tool applications
+  * [Satellite data uses](https://landsat.gsfc.nasa.gov/landsat-applications/)
