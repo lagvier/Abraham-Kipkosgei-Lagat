@@ -21,3 +21,4 @@ list of repositories with open dastasets:
   * [Companies](https://opencorporates.com/companies?jurisdiction_code=&q=&utf8=%E2%9C%93)
   * [ILRI External](http://data.ilri.org/portal/dataset?organization=ilri) | [ILRI](http://data.ilri.org/portal/dataset)
   * [Africa open data](https://africaopendata.org/datarequest)
+  * [TranStatsData](https://transtats.bts.gov/ftproot/TranStatsData/)
