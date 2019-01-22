@@ -12,6 +12,7 @@
 * [Max Kuhn's blog](http://topepo.github.io/caret/index.html)
 * [Bloomberg](https://bloomberg.github.io/foml/#lectures)
 * [MLSS](http://mlss.cc/)
+* [DeepThinking](http://deepthinking.guru/)
 
 #### IoT resources
 
