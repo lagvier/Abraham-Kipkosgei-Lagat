@@ -10,6 +10,8 @@
 * [Notes](https://www.datafuckingscience.com/)
 * [NIPS Proceedings](http://papers.nips.cc)
 * [Max Kuhn's blog](http://topepo.github.io/caret/index.html)
+* [Bloomberg](https://bloomberg.github.io/foml/#lectures)
+* [MLSS](http://mlss.cc/)
 
 #### IoT resources
 
