@@ -24,4 +24,4 @@ list of repositories with open dastasets:
   * [TranStatsData](https://transtats.bts.gov/ftproot/TranStatsData/)
   * [Satellite data sources](https://gisgeography.com/free-satellite-imagery-data-list/)
   * [Satellite data 2](https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data)
-  * [The Armed Conflict Location & Event Data Project (ACLED](https://www.acleddata.com/data/)
+  * [The Armed Conflict Location & Event Data Project (ACLED)](https://www.acleddata.com/data/)
