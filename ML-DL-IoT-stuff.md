@@ -1,5 +1,5 @@
 #### Machine learning resources
-
+* [ML Course](https://mlcourse.ai/)
 #### Deep learning resources
 * [Download images from google](https://github.com/rytoj/google-images-download)
 * [Fastai](https://github.com/fastai/fastai)
