@@ -60,3 +60,6 @@
 #### Tool applications
   * [Satellite data uses](https://landsat.gsfc.nasa.gov/landsat-applications/)
   * [Satellite data uses 2](https://gisgeography.com/100-earth-remote-sensing-applications-uses/)
+
+#### Programming Resources
+  * [Programming Tips](https://coderwall.com/)
