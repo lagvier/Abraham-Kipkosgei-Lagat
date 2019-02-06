@@ -25,41 +25,45 @@
 * [images](http://caccioppoli.com/Animations/)
 
 ##### Project Management
-  * [M&E for National Program Planning and Management](https://www.globalhealthlearning.org/sites/default/files/page-files/NP_Participant_Manual1.pdf)
-  * [Lean toolkit](http://lean.nh.gov/documents/Lean_IT_toolkit_120915.pdf)
-  * [Quire](https://quire.io/)
-  * [Asana](https://asana.com/)
+* [M&E for National Program Planning and Management](https://www.globalhealthlearning.org/sites/default/files/page-files/NP_Participant_Manual1.pdf)
+* [Lean toolkit](http://lean.nh.gov/documents/Lean_IT_toolkit_120915.pdf)
+* [Quire](https://quire.io/)
+* [Asana](https://asana.com/)
   
 ##### Business
-   * [Regulations](https://kenya.eregulations.org/)
-   * [Auctions](https://www.auctionskenya.com/)
-   * [Patents](https://www.cipit.org/index.php/blog/resources/databases/17-general-publications/1456-granted-patents)
-   * [Startup valuation](https://www.caycon.com/valuation.php)
-   * [Geostartups](http://geoawesomeness.com/)
-   * [Startup resources](https://steveblank.com/tools-and-blogs-for-entrepreneurs/#marketresearch%20freepik.com)
-   * [Procedures](https://infotradekenya.go.ke/)
+* [Regulations](https://kenya.eregulations.org/)
+* [Auctions](https://www.auctionskenya.com/)
+* [Patents](https://www.cipit.org/index.php/blog/resources/databases/17-general-publications/1456-granted-patents)
+* [Startup valuation](https://www.caycon.com/valuation.php)
+* [Geostartups](http://geoawesomeness.com/)
+* [Startup resources](https://steveblank.com/tools-and-blogs-for-entrepreneurs/#marketresearch%20freepik.com)
+* [Procedures](https://infotradekenya.go.ke/)
+   
+#### Editing resources
+* [Wordcounter](https://wordcounter.net/)
   
- ##### Website and app development
-   * [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
+##### Website and app development
+* [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 #### NSE Market
-  * [NSE](https://www.nse.co.ke)
-  * [Rich](http://live.rich.co.ke/bdexp/index.php)
-  * [Mystocks](https://www.mystocks.co.ke)
-  * [Investing](https://www.investing.com/indices/nairobi-all-share-components)
+* [NSE](https://www.nse.co.ke)
+* [Rich](http://live.rich.co.ke/bdexp/index.php)
+* [Mystocks](https://www.mystocks.co.ke)
+* [Investing](https://www.investing.com/indices/nairobi-all-share-components)
+
 #### Recipes
-  * [Reading A-Z](https://www.readinga-z.com/search/#!#doSearch=Search&searchTerms=recipe)
+* [Reading A-Z](https://www.readinga-z.com/search/#!#doSearch=Search&searchTerms=recipe)
   
 #### Data collection tools
-  * [OpenClinica](https://github.com/OpenClinica/OpenClinica/wiki/Install-OpenClinica-v3.6-and-higher-on-Linux)
+* [OpenClinica](https://github.com/OpenClinica/OpenClinica/wiki/Install-OpenClinica-v3.6-and-higher-on-Linux)
 
 #### Presentations
-  * [Cartoons photos/sketches](https://www.123rf.com)
-  * [StoryBoarding](https://www.storyboardthat.com/storyboard-creator)
+* [Cartoons photos/sketches](https://www.123rf.com)
+* [StoryBoarding](https://www.storyboardthat.com/storyboard-creator)
   
 #### Tool applications
-  * [Satellite data uses](https://landsat.gsfc.nasa.gov/landsat-applications/)
-  * [Satellite data uses 2](https://gisgeography.com/100-earth-remote-sensing-applications-uses/)
+* [Satellite data uses](https://landsat.gsfc.nasa.gov/landsat-applications/)
+* [Satellite data uses 2](https://gisgeography.com/100-earth-remote-sensing-applications-uses/)
 
 #### Programming Resources
-  * [Programming Tips](https://coderwall.com/)
+* [Programming Tips](https://coderwall.com/)
