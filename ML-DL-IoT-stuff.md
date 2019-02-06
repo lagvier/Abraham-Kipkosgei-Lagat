@@ -13,6 +13,7 @@
 * [Bloomberg](https://bloomberg.github.io/foml/#lectures)
 * [MLSS](http://mlss.cc/)
 * [DeepThinking](http://deepthinking.guru/)
+* [nbviewer-Jupyter](https://nbviewer.jupyter.org/)
 
 #### IoT resources
 
