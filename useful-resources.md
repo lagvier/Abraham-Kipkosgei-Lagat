@@ -21,8 +21,9 @@
 * [Bill & Melinda Gates](https://gcgh.grandchallenges.org/)
 * [NRF](www.researchfund.go.ke)
 
-##### Animated images
-* [images](http://caccioppoli.com/Animations/)
+##### Media Resources
+* [Animated images](http://caccioppoli.com/Animations/)
+* [Audio Editor](https://www.bearaudiotool.com/)
 
 ##### Project Management
 * [M&E for National Program Planning and Management](https://www.globalhealthlearning.org/sites/default/files/page-files/NP_Participant_Manual1.pdf)
