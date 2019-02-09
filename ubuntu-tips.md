@@ -26,4 +26,6 @@
 sudo add-apt-repository ppa:libreoffice/ppa
 sudo apt install libreoffice-gtk2 libreoffice-gnome
 # NB: you may need to remove previous libreoffice before running the above
+# On R or Rstudio run:
+system(paste0("xdg-open ",<file.extension>), intern = TRUE)
 ```
