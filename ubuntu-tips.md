@@ -20,4 +20,10 @@
    unzip android-studio-ide-145.3360264-linux.zip -d ~/bin
    ~/bin/android-studio/bin/studio.sh # and follow prompts
    ```
-   
+#### Open office from R terminal (Ubuntu 18.04)
+```
+# You may need to 
+sudo add-apt-repository ppa:libreoffice/ppa
+sudo apt install libreoffice-gtk2 libreoffice-gnome
+# NB: you may need to remove previous libreoffice before running the above
+```
