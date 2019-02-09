@@ -28,4 +28,11 @@ sudo apt install libreoffice-gtk2 libreoffice-gnome
 # NB: you may need to remove previous libreoffice before running the above
 # On R or Rstudio run:
 system(paste0("xdg-open ",<file.extension>), intern = TRUE)
+
+# Also you may need to run the following codes:
+sudo echo /usr/lib/libreoffice/program/ > /etc/ld.so.conf.d/libc.conf
+# Errors about libreglo.so can be rectified using:
+locate libreglo.so 
+LD_LIBRARY_PATH=$(dirname $(locate libreglo.so)):$LD_LIBRARY_PATH 
+dpkg -S /usr/lib/libreoffice/program/libreglo.so
 ```
