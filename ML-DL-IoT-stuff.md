@@ -1,6 +1,7 @@
 #### Machine learning resources
 * [ML Course](https://mlcourse.ai/)
 * [Install TF, Nvidia, CUDA, cuDNN](http://www.cim.mcgill.ca/~anqixu/blog/index.php/2018/06/20/install-18-04-on-encrypted-partitions-xps15-cuda/)
+* [Google colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 
 #### Deep learning resources
 * [Download images from google](https://github.com/rytoj/google-images-download)
