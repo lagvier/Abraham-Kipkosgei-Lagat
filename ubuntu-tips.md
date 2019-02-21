@@ -9,17 +9,26 @@
   * [You-DL](https://rg3.github.io/youtube-dl/):
   * Download song/video: ```you-dl https://www.youtube.com/watch?v=KIkQ7YVys_A```
   * Download playlis ```you-dl -i --yes-playlist https://www.youtube.com/watch?list=PLF6232442472E33F3```
-  * Install Skype, Skype recorder and screen recorder
+  * Install Skyp and Skype recorder
     * Skype
      ``` 
        sudo apt-get install snapd
        sudo snap install skype --classic
      ```
     * [Skype recorder](http://atdot.ch/scr/download/)
-    * Screen recorder
-     ```
-      sudo sudo apt-get install recordmydesktop 
-     ```
+    
+* Screen recorders:
+  * Kazam
+   ```
+   sudo add-apt-repository ppa:sylvain-pineau/kazam
+   sudo apt-get update
+   sudo apt install kazam
+   ```
+  * Screen recorder
+   ```
+   sudo sudo apt-get install recordmydesktop 
+   ```
+   
 * Installing MS Azure Resources
   * https://gloveboxes.github.io/Ubuntu-for-Azure-Developers/docs/Ubuntu1804.html
 * Electronics
