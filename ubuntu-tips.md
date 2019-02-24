@@ -67,3 +67,4 @@
    Sys.setenv(LD_LIBRARY_PATH="/usr/lib/libreoffice/program")
    ```
 #### [Google service on ubuntu](https://linuxconfig.org/google-drive-on-ubuntu-18-04-bionic-beaver-linux)
+#### [OpenCV installation](https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/)
