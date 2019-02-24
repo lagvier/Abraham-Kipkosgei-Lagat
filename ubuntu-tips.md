@@ -66,3 +66,4 @@
    #or on R
    Sys.setenv(LD_LIBRARY_PATH="/usr/lib/libreoffice/program")
    ```
+#### [Google service on ubuntu](https://linuxconfig.org/google-drive-on-ubuntu-18-04-bionic-beaver-linux)
