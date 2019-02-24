@@ -68,3 +68,6 @@
 
 #### Programming Resources
 * [Programming Tips](https://coderwall.com/)
+
+#### Agricultural resources
+* [DbVisualizer](https://www.dbvis.com/)
