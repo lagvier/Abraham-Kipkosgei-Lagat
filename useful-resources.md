@@ -71,3 +71,6 @@
 
 #### Agricultural resources
 * [DbVisualizer](https://www.dbvis.com/)
+
+#### Document edition online
+* [scan format](http://lookslikescanned.com/)
