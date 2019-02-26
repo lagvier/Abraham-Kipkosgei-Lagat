@@ -17,6 +17,7 @@
 * [MLSS](http://mlss.cc/)
 * [DeepThinking](http://deepthinking.guru/)
 * [nbviewer-Jupyter](https://nbviewer.jupyter.org/)
+* [Indaba](http://www.deeplearningindaba.com/indabax-341498.html)
 
 #### IoT resources
 
