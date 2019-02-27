@@ -48,7 +48,7 @@ A graduate in statistics with affinity in technololgy. A strategically-oriented 
 ---
 
 ## Experience 
-### Data Manager						Nov. 2016 – Date
+### Data Manager						Nov. 2016 – Mar. 2019
 ### [KEMRI-Wellcome Trust Research Programme](http://www.kemri-wellcome.org) | Nairobi, Kenya
 *	Designing and updating data collection tools and Installation and updating operating systems and database systems for fieldwork
 *	Monitoring data collection quality and making daily follow-up with clerks to review out-of-range and incomplete records based on the respective SOPs
