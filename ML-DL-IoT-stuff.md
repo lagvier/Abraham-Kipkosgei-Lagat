@@ -18,6 +18,7 @@
 * [DeepThinking](http://deepthinking.guru/)
 * [nbviewer-Jupyter](https://nbviewer.jupyter.org/)
 * [Indaba](http://www.deeplearningindaba.com/indabax-341498.html)
+* [DL papers with Codes](https://paperswithcode.com/)
 
 #### IoT resources
 
