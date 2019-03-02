@@ -52,3 +52,4 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [Shiny apps](http://stat545.com/shiny01_activity.html)
   * [SAS](https://www.sas.com/en_us/software/university-edition/download-software.html#linux)
   * [Wolfram|Alpha](https://www.wolframalpha.com/)
+  * [Symbolab](https://www.symbolab.com)
