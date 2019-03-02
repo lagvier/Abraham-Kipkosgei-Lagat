@@ -20,6 +20,7 @@
 * [WHO](https://www.who.int/management/newitems/en/index5.html)
 * [Bill & Melinda Gates](https://gcgh.grandchallenges.org/)
 * [NRF](www.researchfund.go.ke)
+* [Consolidated list](http://www.funds4africa.org/en/category/calls-for-proposals/)
 
 ##### Media Resources
 * [Animated images](http://caccioppoli.com/Animations/)
