@@ -19,6 +19,7 @@
 * [nbviewer-Jupyter](https://nbviewer.jupyter.org/)
 * [Indaba](http://www.deeplearningindaba.com/indabax-341498.html)
 * [DL papers with Codes](https://paperswithcode.com/)
+* [setup DL ubuntu](https://aboustati.github.io/How-to-Setup-a-VM-in-Azure-for-Deep-Learning/)
 
 #### IoT resources
 
