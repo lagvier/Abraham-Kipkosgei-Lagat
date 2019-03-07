@@ -23,4 +23,4 @@
 * [DL](https://medium.com/@sozercan/tensorflow-object-detection-on-azure-part-1-using-docker-and-deep-learning-vms-a439e711092a)
 
 #### IoT resources
-
+* [setup server on raspberry pi](https://thepi.io/how-to-set-up-a-web-server-on-the-raspberry-pi/)
