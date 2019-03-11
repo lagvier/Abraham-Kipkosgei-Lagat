@@ -1,7 +1,7 @@
 #### Machine learning resources
 * [ML Course](https://mlcourse.ai/)
 * [Install TF, Nvidia, CUDA, cuDNN](http://www.cim.mcgill.ca/~anqixu/blog/index.php/2018/06/20/install-18-04-on-encrypted-partitions-xps15-cuda/)
-* [Google colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+* [UCI ML Repo](https://archive.ics.uci.edu/ml/machine-learning-databases/)
 
 #### Deep learning resources
 * [Download images from google](https://github.com/rytoj/google-images-download)
@@ -29,5 +29,5 @@
 * [Setup Server on Raspberry PI](https://thepi.io/how-to-set-up-a-web-server-on-the-raspberry-pi/)
 
 #### Online IDEs
-* [Google Colab](https://colab.research.google.com)
+* [Google colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 * [Kaggle Kernel](https://www.kaggle.com/)
