@@ -27,3 +27,4 @@ list of repositories with open dastasets:
   * [The Armed Conflict Location & Event Data Project (ACLED)](https://www.acleddata.com/data/)
   * [WorldPop](http://www.worldpop.org.uk/data/get_data/)
   * [Cancer molecular](https://wiki.nci.nih.gov/display/NCIDTPdata/Molecular+Target+Data)
+  * [OpenML Data](https://www.openml.org/search?type=data)
