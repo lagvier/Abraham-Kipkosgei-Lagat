@@ -22,6 +22,7 @@
 * [setup DL ubuntu](https://aboustati.github.io/How-to-Setup-a-VM-in-Azure-for-Deep-Learning/)
 * [DL](https://medium.com/@sozercan/tensorflow-object-detection-on-azure-part-1-using-docker-and-deep-learning-vms-a439e711092a)
 * [Chatbot blog](https://chatbotslife.com/tagged/user-experience)
+* [openML](https://www.openml.org/)
 
 #### IoT resources
 * [Setup OS on Raspberry PI](https://pestmeester.nl/index.html#4.1)
