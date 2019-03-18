@@ -26,6 +26,7 @@
 * [openML](https://www.openml.org/)
 * [PyImageSearch](https://www.pyimagesearch.com/)
 * [CNN Theory](https://arxiv.org/pdf/1603.07285.pdf)
+* [YOLO Algorithm](https://pjreddie.com/darknet/yolo/)
 
 #### IoT resources
 * [Setup OS on Raspberry PI](https://pestmeester.nl/index.html#4.1)
