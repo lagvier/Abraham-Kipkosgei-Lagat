@@ -25,6 +25,7 @@
 * [Chatbot blog](https://chatbotslife.com/tagged/user-experience)
 * [openML](https://www.openml.org/)
 * [PyImageSearch](https://www.pyimagesearch.com/)
+* [CNN Theory](https://arxiv.org/pdf/1603.07285.pdf)
 
 #### IoT resources
 * [Setup OS on Raspberry PI](https://pestmeester.nl/index.html#4.1)
