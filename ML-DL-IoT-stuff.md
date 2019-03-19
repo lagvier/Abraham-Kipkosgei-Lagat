@@ -7,6 +7,7 @@
 #### Deep learning resources
 * [Download images from google](https://github.com/rytoj/google-images-download)
 * [Fastai](https://github.com/fastai/fastai)
+* [Deeplearning DIY](https://www.di.ens.fr/~lelarge/dldiy/)
 * [Keras](https://keras.io/)
 * [pytorch](https://pytorch.org/)
 * [Google AI](https://ai.google/)
