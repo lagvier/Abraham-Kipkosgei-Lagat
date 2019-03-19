@@ -30,6 +30,7 @@
 * [Fleuret](https://fleuret.org/ee559/)
 * [medium blogs]
     * [Geek Kid](https://medium.com/@geek_kid)
+    * [Adam Geitgey](https://medium.com/@ageitgey)
 
 #### IoT resources
 * [Setup OS on Raspberry PI](https://pestmeester.nl/index.html#4.1)
