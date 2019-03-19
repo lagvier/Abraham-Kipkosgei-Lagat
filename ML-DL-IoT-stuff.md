@@ -28,7 +28,7 @@
 * [CNN Theory](https://arxiv.org/pdf/1603.07285.pdf)
 * [YOLO Algorithm](https://pjreddie.com/darknet/yolo/)
 * [Fleuret](https://fleuret.org/ee559/)
-* [medium blogs]
+* ##### medium blogs:
     * [Geek Kid](https://medium.com/@geek_kid)
     * [Adam Geitgey](https://medium.com/@ageitgey)
 
