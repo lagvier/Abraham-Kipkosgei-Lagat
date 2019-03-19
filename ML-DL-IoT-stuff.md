@@ -39,6 +39,7 @@
 * [Setup Server on Raspberry PI](https://thepi.io/how-to-set-up-a-web-server-on-the-raspberry-pi/)
 * [IBM Developer Blog](https://developer.ibm.com/tutorials/category/iot/)
 * [Raspberry PI Projects](https://projects.raspberrypi.org/en/projects/)
+* [Raspberry PI tutorials](https://tutorials-raspberrypi.com/)
 
 #### Online IDEs
 * [Google colab](https://colab.research.google.com/notebooks/welcome.ipynb)
