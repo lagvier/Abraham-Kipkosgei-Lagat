@@ -40,6 +40,7 @@
 * [IBM Developer Blog](https://developer.ibm.com/tutorials/category/iot/)
 * [Raspberry PI Projects](https://projects.raspberrypi.org/en/projects/)
 * [Raspberry PI tutorials](https://tutorials-raspberrypi.com/)
+* [Arduino projects](https://create.arduino.cc/projecthub)
 
 #### Online IDEs
 * [Google colab](https://colab.research.google.com/notebooks/welcome.ipynb)
