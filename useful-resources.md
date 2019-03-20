@@ -78,3 +78,6 @@
 
 #### Document edition online
 * [scan format](http://lookslikescanned.com/)
+
+#### Just for fun
+* [Online piano](https://www.musictheory.net/piano)
