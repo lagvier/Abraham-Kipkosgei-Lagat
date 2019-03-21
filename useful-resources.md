@@ -22,8 +22,9 @@
 * [NRF](www.researchfund.go.ke)
 * [Consolidated list](http://www.funds4africa.org/en/category/calls-for-proposals/)
 
-##### Crowdsourcing
+##### Crowdsourcing and seed funding
 * [ScaleFunder](https://mit.scalefunder.com/)
+* [Catalytic fund](https://kenyacatalyticjobsfund.org/)
 
 ##### Media Resources
 * [Animated images](http://caccioppoli.com/Animations/)
