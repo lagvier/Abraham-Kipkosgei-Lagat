@@ -28,3 +28,4 @@ list of repositories with open dastasets:
   * [WorldPop](http://www.worldpop.org.uk/data/get_data/)
   * [Cancer molecular](https://wiki.nci.nih.gov/display/NCIDTPdata/Molecular+Target+Data)
   * [OpenML Data](https://www.openml.org/search?type=data)
+  * [Curated list of public datasets](https://github.com/llSourcell/awesome-public-datasets)
