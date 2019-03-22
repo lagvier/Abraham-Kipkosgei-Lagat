@@ -68,3 +68,12 @@
    ```
 #### [Google service on ubuntu](https://linuxconfig.org/google-drive-on-ubuntu-18-04-bionic-beaver-linux)
 #### [OpenCV installation](https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/)
+
+
+#### Trouble shooting problems;
+- [x] __E: Could not get lock /var/lib/dpkg/lock - open__
+  ```
+  sudo rm /var/lib/apt/lists/lock
+  sudo rm /var/cache/apt/archives/lock
+  sudo rm /var/lib/dpkg/lock
+  ```
