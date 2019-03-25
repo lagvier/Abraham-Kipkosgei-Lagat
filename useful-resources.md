@@ -80,5 +80,8 @@
 #### Document edition online
 * [scan format](http://lookslikescanned.com/)
 
+#### Data Visualization and story telling
+* [Flourish](https://app.flourish.studio)
+
 #### Just for fun
 * [Online piano](https://www.musictheory.net/piano)
