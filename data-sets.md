@@ -29,3 +29,4 @@ list of repositories with open dastasets:
   * [Cancer molecular](https://wiki.nci.nih.gov/display/NCIDTPdata/Molecular+Target+Data)
   * [OpenML Data](https://www.openml.org/search?type=data)
   * [Curated list of public datasets](https://github.com/llSourcell/awesome-public-datasets)
+  * [World Bank](https://data.worldbank.org/)
