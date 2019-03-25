@@ -17,7 +17,6 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [Andela](https://learning-digest.andela.com/)
   * [WorldBank Academy](https://olc.worldbank.org/wbg-academy)
   * [Solo Learn](https://www.sololearn.com/Courses/)
-  * [Word Bank Academy](https://olc.worldbank.org/)
   
 * Healthcare
   * [CDC Train](https://www.cdc.gov/learning/)
