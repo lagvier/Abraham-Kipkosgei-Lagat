@@ -30,3 +30,4 @@ list of repositories with open dastasets:
   * [OpenML Data](https://www.openml.org/search?type=data)
   * [Curated list of public datasets](https://github.com/llSourcell/awesome-public-datasets)
   * [World Bank](https://data.worldbank.org/)
+  * [European Centre for Medium-Range Weather Forecasts(ECMRWF)](https://apps.ecmwf.int/datasets/)
