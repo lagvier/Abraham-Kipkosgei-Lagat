@@ -46,3 +46,4 @@
 * [Google colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 * [Kaggle Kernel](https://www.kaggle.com/)
 * [OpenML](https://www.openml.org/)
+* [MS Azure](https://notebooks.azure.com/)
