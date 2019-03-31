@@ -77,3 +77,8 @@
   sudo rm /var/cache/apt/archives/lock
   sudo rm /var/lib/dpkg/lock
   ```
+
+#### Install LAMP(Linux, Apache, MySQL and PHP)
+```
+sudo apt-get install apache2
+```
