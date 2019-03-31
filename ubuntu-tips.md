@@ -79,6 +79,26 @@
   ```
 
 #### Install LAMP(Linux, Apache, MySQL and PHP)
+##### Apache
 ```
+sudo apt update && sudo apt upgrade
+
 sudo apt-get install apache2
+sudo apache2ctl configtest # if the command has a warning  then add "ServerName <server_domain_or_IP>" to end apache2.conf file
+sudo nano /etc/apache2/apache2.conf
+sudo service apache2 restart
+```
+##### PHP
+```
+sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql
+sudo apt install php-curl php-json php-cgi
+```
+##### MySQL
+```
+sudo apt install mysql-server libapache2-mod-auth-mysql 
+mysql -u root -p
+ALTER USER 'root'@'localhost' IDENTIFIED WITH 'mysql_native_password' BY 'password';
+quit
+
+
 ```
