@@ -84,21 +84,28 @@
 sudo apt update && sudo apt upgrade
 
 sudo apt-get install apache2
-sudo apache2ctl configtest # if the command has a warning  then add "ServerName <server_domain_or_IP>" to end apache2.conf file
+sudo apache2ctl configtest # 
+if the command has a warning  then add "ServerName <ServerName <YOUR SERVER DOMAIN OR IP ADDRESS>>" to end apache2.conf file
 sudo nano /etc/apache2/apache2.conf
 sudo service apache2 restart
 ```
 ##### PHP
 ```
-sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql
-sudo apt install php-curl php-json php-cgi
+sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql php-common php-gd php-cli 
+sudo apt install php-pear php-fpm php-dev php-zip php-curl php-xmlrpc php-gd php-json php-cgi php-mbstring php-xml 
+# check installation
+php -r 'echo "\n\nYour PHP installation is working fine.\n\n\n";' 
 ```
 ##### MySQL
 ```
-sudo apt install mysql-server libapache2-mod-auth-mysql 
+# Install MariaDB
+sudo apt install mariadb-server mariadb-client
+# sudo apt install mysql-server libapache2-mod-auth-mysql 
+sudo service mysql status 
 mysql -u root -p
 ALTER USER 'root'@'localhost' IDENTIFIED WITH 'mysql_native_password' BY 'password';
 quit
 
+sudo apt install phpmyadmin # select apache2 during the installation
 
 ```
