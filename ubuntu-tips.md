@@ -36,7 +36,7 @@
 * API Development
   * [Postman](https://www.getpostman.com/)
 * Android
-  * [Install android studio]()
+  * [Install android studio](https://developer.android.com/studio/)
    ``` 
    sudo apt install -y gcc-multilib g++-multilib libc6-dev-i386 qemu-kvm mesa-utils
    # Download android studio from: https://developer.android.com/studio/index.html
