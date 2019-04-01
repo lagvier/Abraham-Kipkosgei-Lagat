@@ -121,10 +121,11 @@ To learn and identify areas of improvements and knowledge transfer on the follow
 ---
 
 ## Membership
-*	The International Biometric Society (IBS)	&nbsp;	Joined 2012
-*	The International Statistical Institute (ISI) 	&nbsp;	 Joined 2013
-*	The American Statistical Association (ASA)	&nbsp; Joined 2016
-*	European Network of Business and Industrial Statistics (ENBIS)	&nbsp;	Joined 2013
+*	[The International Biometric Society (IBS)](https://www.biometricsociety.org/) &nbsp;	Joined 2012
+*	[The International Statistical Institute (ISI)](https://isi-web.org/index.php/about-isi/who-is-isi/members/indivual) 	&nbsp;	 Joined 2013
+*	[The American Statistical Association (ASA)](https://www.amstat.org/)	&nbsp; Joined 2016
+*	[European Network of Business and Industrial Statistics (ENBIS)](https://enbis.org/)	&nbsp;	Joined 2013
+* [Moi University Alumni](https://alumni.mu.ac.ke/index.php/membership/registered-members/84-membership/397-ordinary-members0
 
 ---
 ## Personal profiles
