@@ -29,6 +29,7 @@ A graduate in statistics with affinity in technololgy. A strategically-oriented 
 ---
 
 ## Publications and Conference Contributions
+* Lagat, A. K, Koech, V. K and Biwott, C. J (2019) [Growth of Dairy Farming Societies in Kenya](https://www.cuk.ac.ke/event/3rd-annual-conference/). Paper presented at: *3rd CUK Annual Conference.* March 25–26. Nairobi, Kenya
 * Lagat, A., Biwott, C. and Komen, R. (2018).  [Modeling temporal volatility of farm produce prices in Kenya](http://jkuat.ac.ke/projects/africa-ai-japan/wp-content/uploads/2018/10/Invitation-Call-for-Paper_JKUAT-Scientific-Conference.pdf). Paper presented at: *13th JKUAT Scientific Conference.* November 15–16. Nairobi, Kenya
 * Tom A., et al (2018). [Health disparities across the counties of Kenya and implications for policy makers, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016](https://bit.ly/2Q8Za32). *The Lancet Global Health*. 
 * Lagat, A., Waititu, A. and Wanjoya, A. (2018). [Support Vector Regression and Neural Network Approaches. Case of Economic Growth in East Africa Community](https://bit.ly/2CMZMr4). *American Journal of Theoretical and Applied Statistics*, 7(2). pp. 67-79.   
@@ -125,7 +126,7 @@ To learn and identify areas of improvements and knowledge transfer on the follow
 *	[The International Statistical Institute (ISI)](https://isi-web.org/index.php/about-isi/who-is-isi/members/indivual) 	&nbsp;	 Joined 2013
 *	[The American Statistical Association (ASA)](https://www.amstat.org/)	&nbsp; Joined 2016
 *	[European Network of Business and Industrial Statistics (ENBIS)](https://enbis.org/)	&nbsp;	Joined 2013
-* [Moi University Alumni](https://alumni.mu.ac.ke/index.php/membership/registered-members/84-membership/397-ordinary-members0
+* [Moi University Alumni](https://alumni.mu.ac.ke/index.php/membership/registered-members/84-membership/397-ordinary-members)
 
 ---
 ## Personal profiles
@@ -136,4 +137,4 @@ To learn and identify areas of improvements and knowledge transfer on the follow
 
 
 ## Quests
-- [ ] [G/Pstat acredition (ASA/ISI)](https://www.amstat.org/ASA/Your-Career/Accreditation.aspx)
+- [G/Pstat acredition (ASA/ISI)](https://www.amstat.org/ASA/Your-Career/Accreditation.aspx)
