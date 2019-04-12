@@ -43,6 +43,7 @@
 * [Raspberry PI Projects](https://projects.raspberrypi.org/en/projects/)
 * [Raspberry PI tutorials](https://tutorials-raspberrypi.com/)
 * [Arduino projects](https://create.arduino.cc/projecthub)
+* [Stereopi](https://www.crowdsupply.com/virt2real/stereopi/updates/opencv-depth-map-examples-code-and-production-status)
 
 #### Online IDEs
 * [Google colab](https://colab.research.google.com/notebooks/welcome.ipynb)
