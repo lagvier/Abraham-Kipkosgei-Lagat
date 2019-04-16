@@ -17,6 +17,7 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [Andela](https://learning-digest.andela.com/)
   * [WorldBank Academy](https://olc.worldbank.org/wbg-academy)
   * [Solo Learn](https://www.sololearn.com/Courses/)
+  * [Earth Data Science](https://www.earthdatascience.org/courses/)
   
 * Healthcare
   * [CDC Train](https://www.cdc.gov/learning/)
