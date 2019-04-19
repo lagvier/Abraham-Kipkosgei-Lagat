@@ -48,6 +48,9 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [Collections](http://www.electronicsandbooks.com/eab3/manual/)
   * [Collections](https://analytixon.com/ebooks/)
 
+* Languages
+  * [Spanish](http://www.englishnspanish.com/audio)
+  
 * Other learning resources
   * [RSpatial](http://rspatial.org/rs/index.html)
   * [SAS Proceedings](https://nairobiaccidentmap.com/)
