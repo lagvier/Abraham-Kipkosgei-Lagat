@@ -32,4 +32,5 @@ list of repositories with open dastasets:
   * [World Bank](https://data.worldbank.org/)
   * [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://apps.ecmwf.int/datasets/)
   * [Caltech](http://www.vision.caltech.edu/html-files/archive.html)
+  8 [Accu Weather](https://www.accuweather.com/en/ke/kenya-weather)
 
