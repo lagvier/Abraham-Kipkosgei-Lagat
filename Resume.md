@@ -14,6 +14,11 @@ A graduate in statistics with affinity in technololgy. A strategically-oriented 
 * Kenya Certificate of Secondary School (KCSE), Chebara High School, 2004.
 ---
 
+## Awards and scholarships:
+* 2019 - [Elsevier's Mathematical Sciences Sponsorship Fund](https://www.elsevier.com/awards/mathematical-sciences-sponsorship-fund), to participate in the [62<sup>nd</sup> ISI World Statistics Congress](http://isi2019.org/)
+
+---
+
 ## Trainings
 * Jul. 2018:	Open Data Management in Agriculture and Nutrition, [The GODAN Action Network](https://www.godan.info)
 * Dec. 2017 – Mar. 2018:	Advanced Course on Software Licensing including Open Source,  [World Bank/WIPO](https://welc.wipo.int/index_en.php)
@@ -49,6 +54,11 @@ A graduate in statistics with affinity in technololgy. A strategically-oriented 
 ---
 
 ## Experience 
+
+### Data Curator						Apr. 2019 – Date
+### [CIMMYT](https://www.cimmyt.org/) | Nairobi, Kenya
+
+
 ### Data Manager						Nov. 2016 – Mar. 2019
 ### [KEMRI-Wellcome Trust Research Programme](http://www.kemri-wellcome.org) | Nairobi, Kenya
 *	Designing and updating data collection tools and Installation and updating operating systems and database systems for fieldwork
