@@ -4,7 +4,7 @@
 ---
 ## Profile 
 
-A graduate in statistics with affinity in technololgy. A strategically-oriented statistical and data management professional experienced in use various application software and knowledge intellectual property protection including licensing of Free and Open Source Software. Interested in utilizing machine learning and IoT technologies. Motivated, results-oriented, fast-learner, adaptable. 
+A graduate in statistics with affinity in technololgy. A strategically-oriented statistical and data management professional experienced in use various application software and knowledge in intellectual property protection including licensing of Free and Open Source Software. Interested in utilizing machine learning and IoT technologies. Motivated, results-oriented, fast-learner, adaptable. 
 
 ---
 
