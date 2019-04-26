@@ -128,4 +128,13 @@ sudo apt install phpmyadmin # select apache2 during the installation
 2. If the virtualbox does not detect the ISO file, the browse to its location and select it then click _start_
 3. Follow the installation instruction to install the OS
 
-* [Reference](https://itsfoss.com/install-linux-in-virtualbox/)
+##### Fit ubuntu screen to Virtualbox window
+1. After starting ubuntu in the Virtualbox, click the _device_ menu of the virtual box
+2. Click _run_ on the popup message. The provide the administrator password
+3. Press ENTER when the terminal window completes installations
+4. Shutdown (poweroff) the ubuntu system. 
+5. Start the ubuntu system and you can be able to have full screen mode of the ubuntu system.
+
+##### References
+* [Install ubuntu on Windows](https://itsfoss.com/install-linux-in-virtualbox/)
+8 [Fit ubuntu on Virtualbox](https://www.youtube.com/watch?v=RxmGFsaOyks)
