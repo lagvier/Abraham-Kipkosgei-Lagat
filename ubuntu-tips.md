@@ -109,3 +109,23 @@ quit
 sudo apt install phpmyadmin # select apache2 during the installation
 
 ```
+
+#### Linux on VirtualBox on windows
+##### Setting up the Virtualbox
+1. Download and install [virtualbox](https://www.virtualbox.org/) in windows
+2. Download  the relevant Linux ISO([Ubuntu](https://www.ubuntu.com/), [Backbox](https://backbox.org/), [Bugtraq](http://bugtraq-team.com/), etc)
+3. Install Linux using VirtualBox
+  - Start VirtualBox, the click on the _New_ star-like symbol. 
+  - Provide a name to the OS you will install and specify its details then click _Next_
+  - Allocate RAM size then click _Next_
+  - On hard disk, select __Create a virtual hard disk now__ and click _Create_
+  - Select __VDI__ hard disk file type and click _Next_
+  - Select __Dynamically allocated__ storage and click _Next_
+  - Allocate the virtual hard disk size and click _Create_
+  
+##### Installating the operating system
+1. On the Virtualbox window, select the relevant Virtualbox setup and click _Start_
+2. If the virtualbox does not detect the ISO file, the browse to its location and select it then click _start_
+3. Follow the installation instruction to install the OS
+
+* [Reference](https://itsfoss.com/install-linux-in-virtualbox/)
