@@ -3,6 +3,7 @@
 * [Install TF, Nvidia, CUDA, cuDNN](http://www.cim.mcgill.ca/~anqixu/blog/index.php/2018/06/20/install-18-04-on-encrypted-partitions-xps15-cuda/)
 * [UCI ML Repo](https://archive.ics.uci.edu/ml/machine-learning-databases/)
 * [IBM Developer blog](https://developer.ibm.com/tutorials/deploy-a-python-machine-learning-model-as-a-web-service/)
+* [Data science podcast](https://soundcloud.com/superdatascience)
 
 #### Deep learning resources
 * [Download images from google](https://github.com/rytoj/google-images-download)
