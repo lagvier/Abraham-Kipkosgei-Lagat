@@ -78,6 +78,8 @@
   sudo rm /var/lib/dpkg/lock
   ```
 
+---
+
 #### Install LAMP(Linux, Apache, MySQL and PHP)
 ##### Apache
 ```
@@ -85,14 +87,16 @@ sudo apt update && sudo apt upgrade
 
 sudo apt-get install apache2
 sudo apache2ctl configtest # 
-if the command has a warning  then add "ServerName <ServerName <YOUR SERVER DOMAIN OR IP ADDRESS>>" to end apache2.conf file
+# if the command has a warning  then 
+# add "ServerName <ServerName <YOUR SERVER DOMAIN OR IP ADDRESS>>" to end apache2.conf file
 sudo nano /etc/apache2/apache2.conf
 sudo service apache2 restart
 ```
 ##### PHP
 ```
 sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql php-common php-gd php-cli 
-sudo apt install php-pear php-fpm php-dev php-zip php-curl php-xmlrpc php-gd php-json php-cgi php-mbstring php-xml 
+sudo apt install php-pear php-fpm php-dev php-zip php-curl php-xmlrpc\
+php-gd php-json php-cgi php-mbstring php-xml 
 # check installation
 php -r 'echo "\n\nYour PHP installation is working fine.\n\n\n";' 
 ```
@@ -115,7 +119,8 @@ sudo apt install phpmyadmin # select apache2 during the installation
 #### Linux on VirtualBox on windows
 ##### Setting up the Virtualbox
 1. Download and install [virtualbox](https://www.virtualbox.org/) in windows
-2. Download  the relevant Linux ISO([Ubuntu](https://www.ubuntu.com/), [Backbox](https://backbox.org/), [Bugtraq](http://bugtraq-team.com/), etc)
+2. Download  the relevant Linux ISO([Ubuntu](https://www.ubuntu.com/), 
+[Backbox](https://backbox.org/), [Bugtraq](http://bugtraq-team.com/), etc)
 3. Install Linux using VirtualBox
   - Start VirtualBox, the click on the _New_ star-like symbol. 
   - Provide a name to the OS you will install and specify its details then click _Next_
