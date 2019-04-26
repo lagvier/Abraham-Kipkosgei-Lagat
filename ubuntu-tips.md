@@ -110,6 +110,8 @@ sudo apt install phpmyadmin # select apache2 during the installation
 
 ```
 
+---
+
 #### Linux on VirtualBox on windows
 ##### Setting up the Virtualbox
 1. Download and install [virtualbox](https://www.virtualbox.org/) in windows
@@ -137,4 +139,4 @@ sudo apt install phpmyadmin # select apache2 during the installation
 
 ##### References
 * [Install ubuntu on Windows](https://itsfoss.com/install-linux-in-virtualbox/)
-8 [Fit ubuntu on Virtualbox](https://www.youtube.com/watch?v=RxmGFsaOyks)
+* [Fit ubuntu on Virtualbox](https://www.youtube.com/watch?v=RxmGFsaOyks)
