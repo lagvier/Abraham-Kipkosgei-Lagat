@@ -17,7 +17,7 @@ A graduate in statistics with affinity in technololgy. A strategically-oriented 
 ## Awards and scholarships:
 * 2019 - [Elsevier's Mathematical Sciences Sponsorship Fund](https://www.elsevier.com/awards/mathematical-sciences-sponsorship-fund), to participate in the [62<sup>nd</sup> ISI World Statistics Congress](http://isi2019.org/), Kuala Lumpur, Malaysia
 * 2017 - [ISI Sponsorship](https://isi-web.org/index.php/news-from-isi/511-isi-sponsorship-for-conferences), to participate in the [61<sup>st</sup> ISI World Statistics Congress](https://isi-web.org/index.php/activities/world-statistics-congresses), Marrakech, Morocco.
-* 2016 - [IBS Awards Fund](https://www.biometricsociety.org/vol-34-no-1-january-march-2017-2/), to participate in the [61<sup>st</sup> International Biometric Conference](http://2016.biometricconference.org/), British Columbia, Canada.
+* 2016 - [IBS Awards Fund](https://www.biometricsociety.org/vol-34-no-1-january-march-2017-2/), to participate in the [XXVIII<sup>th</sup> International Biometric Conference](http://2016.biometricconference.org/), British Columbia, Canada.
 * 2015 - [IBS Awards Fund](http://www.biometricsociety.org/wp-content/uploads/2016/07/Awards-Fund-Report.docx), to participate in the [East Africa IBS Regional Conference](http://www.biometricsociety.org/meetings-events/events-calendar/?month=nov&yr=2015), Kampala, Uganda.
 * 2014 - [The Netherlands Fellowship](https://www.nuffic.nl/en/) to undertake [The Plant Variety Protection Course](https://www.wur.nl/web/file?uuid=580fa575-90a4-44d9-bbc8-f5d8a8aba7b2&owner=7642a29f-7d5e-47a8-b425-dd49c8f88bdb), Wageningen, The Netherlands.
 ---
