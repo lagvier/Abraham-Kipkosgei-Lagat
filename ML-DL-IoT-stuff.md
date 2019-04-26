@@ -5,6 +5,8 @@
 * [IBM Developer blog](https://developer.ibm.com/tutorials/deploy-a-python-machine-learning-model-as-a-web-service/)
 * [Data science podcasts](https://soundcloud.com/superdatascience)
 
+---
+
 #### Deep learning resources
 * [Download images from google](https://github.com/rytoj/google-images-download)
 * [Fastai](https://github.com/fastai/fastai)
@@ -33,9 +35,13 @@
 * [Fleuret](https://fleuret.org/ee559/)
 * [Intel AI](https://software.intel.com/en-us/ai/courses/deep-learning-inference-fpga)
 
+---
+
 ##### medium blogs:
 * [Geek Kid](https://medium.com/@geek_kid)
 * [Adam Geitgey](https://medium.com/@ageitgey)
+
+---
 
 #### IoT resources
 * [Setup OS on Raspberry PI](https://pestmeester.nl/index.html#4.1)
@@ -45,6 +51,8 @@
 * [Raspberry PI tutorials](https://tutorials-raspberrypi.com/)
 * [Arduino projects](https://create.arduino.cc/projecthub)
 * [Stereopi](https://www.crowdsupply.com/virt2real/stereopi/updates/opencv-depth-map-examples-code-and-production-status)
+
+---
 
 #### Online IDEs
 * [Google colab](https://colab.research.google.com/notebooks/welcome.ipynb)
