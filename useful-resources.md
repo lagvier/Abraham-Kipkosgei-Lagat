@@ -87,6 +87,7 @@
 #### Just for fun
 * [Online piano](https://www.musictheory.net/piano)
 * [PSCP](https://www.pscp.tv/)
+* [Mathematical riddles](https://mathriddles.williams.edu/?cat=695)
 
 #### Songs
 * [Only two of us](https://www.youtube.com/watch?v=jukhJtIhsik&list=PLWlTX25IDqIy_HeO8BsOyt0wAhE9No3Nt&index=3)
