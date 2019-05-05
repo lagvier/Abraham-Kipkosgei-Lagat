@@ -4,7 +4,7 @@
 * [UCI ML Repo](https://archive.ics.uci.edu/ml/machine-learning-databases/)
 * [IBM Developer blog](https://developer.ibm.com/tutorials/deploy-a-python-machine-learning-model-as-a-web-service/)
 * [Data science podcasts](https://soundcloud.com/superdatascience)
-
+* [Skymind tutorials](https://skymind.ai/wiki/deep-reinforcement-learning)
 ---
 
 #### Deep learning resources
