@@ -34,4 +34,4 @@ list of repositories with open dastasets:
   * [Caltech](http://www.vision.caltech.edu/html-files/archive.html)
   * [Accu Weather](https://www.accuweather.com/en/ke/kenya-weather)
   * [Cyclones](https://www.cyclocane.com/)
-
+  * [USAID Open Data](https://data.usaid.gov/)
