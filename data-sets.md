@@ -35,3 +35,4 @@ list of repositories with open dastasets:
   * [Accu Weather](https://www.accuweather.com/en/ke/kenya-weather)
   * [Cyclones](https://www.cyclocane.com/)
   * [USAID Open Data](https://data.usaid.gov/)
+  * [Movie ratings](https://grouplens.org/datasets/movielens/)
