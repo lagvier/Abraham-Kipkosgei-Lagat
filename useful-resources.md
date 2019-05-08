@@ -21,7 +21,9 @@
 * [WHO](https://www.who.int/management/newitems/en/index5.html)
 * [Bill & Melinda Gates](https://gcgh.grandchallenges.org/)
 * [NRF](www.researchfund.go.ke)
-* [Consolidated list](http://www.funds4africa.org/en/category/calls-for-proposals/)
+* Consolidated list
+  - [Funding4Africa](http://www.funds4africa.org/en/category/calls-for-proposals/)
+  - [AuthorAid](https://www.authoraid.info/en/funding/)
 
 ##### Crowdsourcing and seed funding
 * [ScaleFunder](https://mit.scalefunder.com/)
