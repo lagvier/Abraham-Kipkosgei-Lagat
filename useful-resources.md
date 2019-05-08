@@ -26,6 +26,7 @@
   - [AuthorAid](https://www.authoraid.info/en/funding/)
   - [Early career central](https://ecrcentral.org/fundings)
   - [Paedpard](https://paepard.blogspot.com/)
+  - [ACE II](https://ace2.iucea.org/)
 
 ##### Crowdsourcing and seed funding
 * [ScaleFunder](https://mit.scalefunder.com/)
