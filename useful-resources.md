@@ -24,6 +24,7 @@
 * Consolidated list
   - [Funding4Africa](http://www.funds4africa.org/en/category/calls-for-proposals/)
   - [AuthorAid](https://www.authoraid.info/en/funding/)
+  - [Early career central](https://ecrcentral.org/fundings)
 
 ##### Crowdsourcing and seed funding
 * [ScaleFunder](https://mit.scalefunder.com/)
