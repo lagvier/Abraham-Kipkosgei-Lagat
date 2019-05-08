@@ -66,6 +66,7 @@
   
 #### Data collection tools
 * [OpenClinica](https://github.com/OpenClinica/OpenClinica/wiki/Install-OpenClinica-v3.6-and-higher-on-Linux)
+* [HMS Electronic Lab Notebooks](https://datamanagement.hms.harvard.edu/electronic-lab-notebooks)
 
 #### Presentations
 * [Cartoons photos/sketches](https://www.123rf.com)
