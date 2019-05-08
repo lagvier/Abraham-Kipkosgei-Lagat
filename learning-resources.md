@@ -56,6 +56,7 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [RSpatial](http://rspatial.org/rs/index.html)
   * [SAS Proceedings](https://nairobiaccidentmap.com/)
   * [Reproducible research](http://kbroman.org/Tools4RR/pages/resources.html)
+  * [10 simple rules for different activities](https://collections.plos.org/ten-simple-rules)
   * [Shiny apps](http://stat545.com/shiny01_activity.html)
   * [SAS](https://www.sas.com/en_us/software/university-edition/download-software.html#linux)
   * [Wolfram|Alpha](https://www.wolframalpha.com/)
