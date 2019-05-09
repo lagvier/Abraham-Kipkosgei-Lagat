@@ -36,3 +36,4 @@ list of repositories with open dastasets:
   * [Cyclones](https://www.cyclocane.com/)
   * [USAID Open Data](https://data.usaid.gov/)
   * [Movie ratings](https://grouplens.org/datasets/movielens/)
+  * [i2i data](https://www.i2ifacility.org/data-portal)
