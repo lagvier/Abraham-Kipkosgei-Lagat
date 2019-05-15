@@ -44,6 +44,7 @@
 ---
 
 #### IoT resources
+* [ThingsBoard](https://github.com/thingsboard/thingsboard)
 * [Setup OS on Raspberry PI](https://pestmeester.nl/index.html#4.1)
 * [Setup Server on Raspberry PI](https://thepi.io/how-to-set-up-a-web-server-on-the-raspberry-pi/)
 * [IBM Developer Blog](https://developer.ibm.com/tutorials/category/iot/)
