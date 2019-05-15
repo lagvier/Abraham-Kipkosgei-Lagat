@@ -37,3 +37,4 @@ list of repositories with open dastasets:
   * [USAID Open Data](https://data.usaid.gov/)
   * [Movie ratings](https://grouplens.org/datasets/movielens/)
   * [i2i data](https://www.i2ifacility.org/data-portal)
+  * [HDX](https://data.humdata.org/dataset)
