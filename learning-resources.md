@@ -50,6 +50,10 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
 
 * Languages
   * [Spanish](http://www.englishnspanish.com/audio)
+
+* Competitions
+  * [kaggle](https://www.kaggle.com)
+  * [TuneIT](http://tunedit.org/)
   
 * Other learning resources
   * [Earlycareer Research Central](https://ecrcentral.org/resources)
