@@ -34,6 +34,7 @@
 * [YOLO Algorithm](https://pjreddie.com/darknet/yolo/)
 * [Fleuret](https://fleuret.org/ee559/)
 * [Intel AI](https://software.intel.com/en-us/ai/courses/deep-learning-inference-fpga)
+* [Model Zoo: Pre-trained models](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
 ---
 
