@@ -147,3 +147,6 @@ sudo apt install phpmyadmin # select apache2 during the installation
 ##### References
 * [Install ubuntu on Windows](https://itsfoss.com/install-linux-in-virtualbox/)
 * [Fit ubuntu on Virtualbox](https://www.youtube.com/watch?v=RxmGFsaOyks)
+---
+#### Installing important resources
+* [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
