@@ -150,3 +150,4 @@ sudo apt install phpmyadmin # select apache2 during the installation
 ---
 #### Installing important resources
 * [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
+* [Ruby on Rails](https://www.howtoforge.com/tutorial/ubuntu-ruby-on-rails/)
