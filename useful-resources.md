@@ -85,6 +85,7 @@
 * [DbVisualizer](https://www.dbvis.com/)
 
 #### Document edition online
+* [Online pdf editor](https://www.freeonlinephotoeditor.com/)
 * [scan format](http://lookslikescanned.com/)
 
 #### Data Visualization and story telling
