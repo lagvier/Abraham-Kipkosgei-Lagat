@@ -152,3 +152,9 @@ sudo apt install phpmyadmin # select apache2 during the installation
 #### Installing important resources
 * [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
 * [Ruby on Rails](https://www.howtoforge.com/tutorial/ubuntu-ruby-on-rails/)
+---
+#### Compress PDF files
+```
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dDownsampleColorImages=true -dDownsampleGrayImages=true -dDownsampleMonoImages=true -dColorImageResolution=130 -dGrayImageResolution=130 -dMonoImageResolution=130 -r130 -dNOPAUSE  -dBATCH -sOutputFile=output.pdf input.pdf
+```
+---
