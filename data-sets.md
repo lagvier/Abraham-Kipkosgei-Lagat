@@ -38,3 +38,4 @@ list of repositories with open dastasets:
   * [Movie ratings](https://grouplens.org/datasets/movielens/)
   * [i2i data](https://www.i2ifacility.org/data-portal)
   * [HDX](https://data.humdata.org/dataset)
+  * [Standford Large Data](http://snap.stanford.edu/data/)
