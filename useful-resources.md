@@ -11,7 +11,6 @@
 
 ##### Funding information
 * [Aga Khan](http://www.akdn.org/our-agencies/aga-khan-foundation/scholarship)
-* [Fogarty list](https://www.fic.nih.gov/Funding/Pages/default.aspx)
 * [Science | AAAS](http://www.sciencemag.org/careers/where-search-funding)
 * [Oxford](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/scholarships-a-z-listing?wssl=1)
 * [UoN](http://dvcrpe.uonbi.ac.ke/content/funding-opportunities-0)
@@ -24,6 +23,7 @@
 * [NRF](www.researchfund.go.ke)
 * Consolidated list
   - [Funding4Africa](http://www.funds4africa.org/en/category/calls-for-proposals/)
+  - [Fogarty list](https://www.fic.nih.gov/Funding/Pages/default.aspx)
   - [AuthorAid](https://www.authoraid.info/en/funding/)
   - [Early career central](https://ecrcentral.org/fundings)
   - [Paedpard](https://paepard.blogspot.com/)
