@@ -39,3 +39,4 @@ list of repositories with open dastasets:
   * [i2i data](https://www.i2ifacility.org/data-portal)
   * [HDX](https://data.humdata.org/dataset)
   * [Standford Large Data](http://snap.stanford.edu/data/)
+  * [University of IOWA Data Links](https://homepage.divms.uiowa.edu/~luke/classes/STAT7400/datasources.html)
