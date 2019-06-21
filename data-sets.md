@@ -40,3 +40,4 @@ list of repositories with open dastasets:
   * [HDX](https://data.humdata.org/dataset)
   * [Standford Large Data](http://snap.stanford.edu/data/)
   * [University of IOWA Data Links](https://homepage.divms.uiowa.edu/~luke/classes/STAT7400/datasources.html)
+  * [India passenger train](https://indiarailinfo.com/trains/passenger)
