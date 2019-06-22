@@ -20,6 +20,7 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [Earth Data Science](https://www.earthdatascience.org/courses/)
   * [Code](https://code.org/educate/csp)
   * [Pluralsight](https://app.pluralsight.com/library/)
+  * [Google Digital Skills](https://learndigital.withgoogle.com/digitalskills)
   
 * Healthcare
   * [CDC Train](https://www.cdc.gov/learning/)
