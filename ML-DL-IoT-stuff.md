@@ -61,3 +61,8 @@
 * [Kaggle Kernel](https://www.kaggle.com/)
 * [OpenML](https://www.openml.org/)
 * [MS Azure](https://notebooks.azure.com/)
+
+---
+
+#### Complied Resources
+* [Ritchie Ng compilations](https://www.ritchieng.com/machine-learning-resources/)
