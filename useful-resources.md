@@ -93,3 +93,6 @@
 
 #### Data Visualization and story telling
 * [Flourish](https://app.flourish.studio)
+
+##### Notes
+- [Python](https://www.webpages.uidaho.edu/~stevel/Stat517.htm)
