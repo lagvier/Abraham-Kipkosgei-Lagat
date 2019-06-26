@@ -53,6 +53,9 @@
 * [Geostartups](http://geoawesomeness.com/)
 * [Startup resources](https://steveblank.com/tools-and-blogs-for-entrepreneurs/#marketresearch%20freepik.com)
 * [Procedures](https://infotradekenya.go.ke/)
+* Canvas Models
+    - [alexandercowan](https://www.alexandercowan.com/business-model-canvas-templates/)
+    - [cleverism](https://www.cleverism.com/business-model-canvas-complete-guide/)
    
 #### Editing resources
 * [Wordcounter](https://wordcounter.net/)
