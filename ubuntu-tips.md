@@ -158,3 +158,16 @@ sudo apt install phpmyadmin # select apache2 during the installation
 gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dDownsampleColorImages=true -dDownsampleGrayImages=true -dDownsampleMonoImages=true -dColorImageResolution=130 -dGrayImageResolution=130 -dMonoImageResolution=130 -r130 -dNOPAUSE  -dBATCH -sOutputFile=output.pdf input.pdf
 ```
 ---
+
+#### [Kill a process using a specific port eg port 3000](https://stackoverflow.com/questions/4473229/rails-server-says-port-already-used-how-to-kill-that-process).
+
+Check the process using it using command:
+```
+$ lsof -wni tcp:3000
+```
+Kill it using the PID Number, example a process with PID number 9 is killed as:
+```
+$ kill -9 PID
+```
+---
+
