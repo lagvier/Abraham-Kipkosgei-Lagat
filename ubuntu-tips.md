@@ -155,7 +155,9 @@ sudo apt install phpmyadmin # select apache2 during the installation
 ---
 #### Compress PDF files
 ```
-gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dDownsampleColorImages=true -dDownsampleGrayImages=true -dDownsampleMonoImages=true -dColorImageResolution=130 -dGrayImageResolution=130 -dMonoImageResolution=130 -r130 -dNOPAUSE  -dBATCH -sOutputFile=output.pdf input.pdf
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dDownsampleColorImages=true -dDownsampleGrayImages=true -dDownsampleMonoImages=true \
+-dColorImageResolution=130 -dGrayImageResolution=130 -dMonoImageResolution=130 -r130 \
+-dNOPAUSE  -dBATCH -sOutputFile=output.pdf input.pdf
 ```
 ---
 
