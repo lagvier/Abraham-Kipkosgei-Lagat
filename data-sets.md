@@ -41,3 +41,4 @@ list of repositories with open dastasets:
   * [Standford Large Data](http://snap.stanford.edu/data/)
   * [University of IOWA Data Links](https://homepage.divms.uiowa.edu/~luke/classes/STAT7400/datasources.html)
   * [India passenger train](https://indiarailinfo.com/trains/passenger)
+  * [Punguza Mzigo](https://www.iebc.or.ke/Punguza_Mizigo.pdf)
