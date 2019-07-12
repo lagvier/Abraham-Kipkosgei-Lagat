@@ -5,3 +5,5 @@
 
 ##### Fun music
 - [moving sound from right to left](https://www.youtube.com/watch?v=KgFEZPEkd6Y)
+- [Joeboy - Baby ](https://www.youtube.com/watch?v=I6wzhp4g2Cw)
+- [Ayami](https://www.youtube.com/watch?v=OW21WTiFJX0)
