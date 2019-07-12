@@ -43,3 +43,4 @@ list of repositories with open dastasets:
   * [India passenger train](https://indiarailinfo.com/trains/passenger)
   * [Punguza Mzigo](https://www.iebc.or.ke/Punguza_Mizigo.pdf)
   * [The Humanitarian Data Exchange](https://data.humdata.org/group)
+  * [Global Daily Satellite Rainfall ](https://zenodo.org/record/2615279#.XSg3yugzaUl)
