@@ -11,6 +11,7 @@
 
 ##### Funding information
 * [Aga Khan](http://www.akdn.org/our-agencies/aga-khan-foundation/scholarship)
+* [NIHR](https://www.nihr.ac.uk/funding-and-support/funding-opportunities)
 * [Science | AAAS](http://www.sciencemag.org/careers/where-search-funding)
 * [Oxford](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/scholarships-a-z-listing?wssl=1)
 * [UoN](http://dvcrpe.uonbi.ac.ke/content/funding-opportunities-0)
