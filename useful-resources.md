@@ -94,6 +94,7 @@
 #### Document edition online
 * [Online pdf editor](https://www.freeonlinephotoeditor.com/)
 * [scan format](http://lookslikescanned.com/)
+* [Image compress](https://highcompress.com/)
 
 #### Data Visualization and story telling
 * [Flourish](https://app.flourish.studio)
