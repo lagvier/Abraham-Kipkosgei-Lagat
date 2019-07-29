@@ -101,3 +101,7 @@
 
 ##### Notes
 - [Python](https://www.webpages.uidaho.edu/~stevel/Stat517.htm)
+
+---
+#### Software
+- [Install hugo in windows](https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/installing-on-windows/)
