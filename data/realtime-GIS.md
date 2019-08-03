@@ -1,0 +1,7 @@
+- [Lightning map](https://www.lightningmaps.org/?lang=en#m=oss;t=3;s=0;o=0;b=;ts=0;y=41.3768;x=-23.7305;z=2;d=2;dl=2;dc=0;)
+- [Ship tracking](https://www.myshiptracking.com/)
+- [Kaspersky threats map](https://cybermap.kaspersky.com/)
+- [Cyber Threats Cloud](https://cybermap.kaspersky.com/)
+- [Ventusky Weather](https://www.ventusky.com/?p=1.0;38.0;5&l=humidity)
+- [Windy Weather](https://www.windy.com/-Clouds-clouds?clouds,-4.697,40.254,4)
+- [Flight radar](https://www.flightradar24.com/-8.41,33.08/4)
