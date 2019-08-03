@@ -5,6 +5,7 @@
 - [Ventusky Weather](https://www.ventusky.com/?p=1.0;38.0;5&l=humidity)
 - [Windy Weather](https://www.windy.com/-Clouds-clouds?clouds,-4.697,40.254,4)
 - [Flight radar](https://www.flightradar24.com/-8.41,33.08/4)
+- [Flight aware](https://flightaware.com/live/)
 - [Marine Traffic](https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:2)
 - [Digital attack](http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=18109&view=map)
 - [Spcae items](http://stuffin.space/)
