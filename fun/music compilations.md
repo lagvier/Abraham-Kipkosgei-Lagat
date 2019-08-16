@@ -13,3 +13,8 @@
 
 ##### Motivational
 -[Mandy Harvey](https://www.youtube.com/watch?v=ZKSWXzAnVe0)
+
+
+##### Favourites songs
+[Faded - Alan Walker](https://www.youtube.com/watch?v=60ItHLz5WEA&list=PLkN9IoY-hkDT-uUwXt0OKq1aLeSK2G40l&index=3)
+[On My Way - Alan Walker, Sabrina Carpenter & Farruko](https://www.youtube.com/watch?v=dhYOPzcsbGM)
