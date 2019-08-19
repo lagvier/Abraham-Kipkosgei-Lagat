@@ -1,6 +1,8 @@
 list of repositories with open dastasets:
   * [WHO - Immunization](http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tscoveragemcv1.html)
-  * [WHO - SDG Monitoring](http://apps.who.int/gho/data/node.sdg)
+  * ##### SDG Monitoring
+    - [WHO](http://apps.who.int/gho/data/node.sdg)
+    - [UN Global Platform](https://marketplace.officialstatistics.org/datasets)
   * Webcams: [Traffic](https://traffic.is.co.ke/), [Special](https://www.meteoblue.com/en/weather/forecast/webcams/nairobi_kenya_184745)
   * [CDAS data](https://pypi.org/project/ai.cdas/)
   * [NASA API](https://data.nasa.gov/),[ NASA](https://api.nasa.gov/api.html#genelab),[ NASA Sounds](https://www.nasa.gov/connect/sounds/index.html)
@@ -9,7 +11,6 @@ list of repositories with open dastasets:
   * [Weather](https://openweathermap.org/)
   * [UN Statistics](https://unstats.un.org/home/)
   * [Zika Virus](https://github.com/cdcepi/zika)
-  * [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
   * [NAFIS](http://www.nafis.go.ke/wp-content/uploads/)
   * [Quakes](http://ds.iris.edu/sm2/eventlist/)
   * [UN Economic Commission for Europe](https://w3.unece.org/PXWeb/en)
@@ -44,4 +45,6 @@ list of repositories with open dastasets:
   * [Punguza Mzigo](https://www.iebc.or.ke/Punguza_Mizigo.pdf)
   * [The Humanitarian Data Exchange](https://data.humdata.org/group)
   * [Global Daily Satellite Rainfall ](https://zenodo.org/record/2615279#.XSg3yugzaUl)
-  * [UN Global Platform](https://marketplace.officialstatistics.org/datasets)
+ 
+#### Reference
+1. [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
