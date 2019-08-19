@@ -1,4 +1,4 @@
-list of repositories with open dastasets:
+list of repositories with open datasets:
   * [WHO - Immunization](http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tscoveragemcv1.html)
   * ##### SDG Monitoring
     - [WHO](http://apps.who.int/gho/data/node.sdg)
