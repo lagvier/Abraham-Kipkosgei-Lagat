@@ -105,3 +105,6 @@
 ---
 #### Software
 - [Install hugo in windows](https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/installing-on-windows/)
+
+#### Telecoms
+- [Safcom roaming](http://roaming.safaricom.co.ke/)
