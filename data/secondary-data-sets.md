@@ -45,6 +45,7 @@ list of repositories with open datasets:
   * [Punguza Mzigo](https://www.iebc.or.ke/Punguza_Mizigo.pdf)
   * [The Humanitarian Data Exchange](https://data.humdata.org/group)
   * [Global Daily Satellite Rainfall ](https://zenodo.org/record/2615279#.XSg3yugzaUl)
+  * [The International Disaster Database (EM-DAT)](https://www.emdat.be/)
  
 #### Reference
 1. [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
