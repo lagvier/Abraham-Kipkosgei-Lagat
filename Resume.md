@@ -4,7 +4,9 @@
 ---
 #### Profile 
 
-A graduate in statistics with affinity in technololgy. A strategically-oriented statistical and data management professional experienced in use various application software and knowledge in intellectual property protection including licensing of Free and Open Source Software. Interested in utilizing machine learning and IoT technologies. Motivated, results-oriented, fast-learner, adaptable. 
+A graduate in statistics with affinity in technololgy - Android and web developer. A strategically-oriented statistical and data management professional experienced in use various application software and knowledge in intellectual property protection including licensing of Free and Open Source Software. Interested in utilizing machine learning and IoT technologies. Motivated, results-oriented, fast-learner, adaptable. 
+
+R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet of Things
 
 ---
 
@@ -48,12 +50,12 @@ A graduate in statistics with affinity in technololgy. A strategically-oriented 
 ---
 
 #### Collaborative Contributions
-*	Lozano, R., et al. (2018). Measuring progress from 1990 to 2017 and projecting attainment to 2030 of the health-related Sustainable Development Goals for 195 countries and territories: a systematic analysis for the Global Burden of Disease Study 2017. *Global Health Metrics*. Volume 392(10159), pp.2091-2138
+*	Lozano, R., et al. (2018). [Measuring progress from 1990 to 2017 and projecting attainment to 2030 of the health-related Sustainable Development Goals for 195 countries and territories: a systematic analysis for the Global Burden of Disease Study 2017](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32281-5/fulltext). *Global Health Metrics*. Volume 392(10159), pp.2091-2138
 *	Irimu, G., et al. (2018). Approaching quality improvement at scale: a learning health system approach in Kenya. *Global Child Health*. 103, pp.1013–1019
 *	Gachau, S., et al (2018). Prevalence, outcome and quality of care among children hospitalized with severe acute malnutrition in Kenyan hospitals: A multi-site observational study. *PLOS One*, 13(5)
 *	Gachau, S., et al (2017). Does audit and feedback improve the adoption of recommended practices? Evidence from a longitudinal observational study of an emerging clinical network in Kenya. *BMJ Global Health*, 2(4)
-*	Haidong, W., et al (2017). Global, regional, and national under-5 mortality, adult mortality, age-specific mortality, and life expectancy, 1970–2016: a systematic analysis for the Global Burden of Disease Study 2016. *Lancet*, 390(10100), pp.1084-1150. 
-*	Roberts, A, and Nutter, N. (2017). Method of Calculation of Combined-Over-Years Uniformity Criterion (COYU): Practical Exercise, Probability Levels, Extrapolation & Software. Contribution to the *UPOV Technical Working Party on Automation and Computer Programs(TWC)*
+*	Haidong, W., et al (2017). [Global, regional, and national under-5 mortality, adult mortality, age-specific mortality, and life expectancy, 1970–2016: a systematic analysis for the Global Burden of Disease Study 2016](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)31833-0/fulltext). *Lancet*, 390(10100), pp.1084-1150. 
+*	Roberts, A, and Nutter, N. (2017). [Method of Calculation of Combined-Over-Years Uniformity Criterion (COYU): Practical Exercise, Probability Levels, Extrapolation & Software](https://www.upov.int/edocs/mdocs/upov/en/twc_33/twc_33_16.pdf). Contribution to the *UPOV Technical Working Party on Automation and Computer Programs(TWC)*
 ---
 
 #### Experience 
