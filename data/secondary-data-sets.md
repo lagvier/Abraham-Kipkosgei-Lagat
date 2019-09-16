@@ -47,6 +47,8 @@ list of repositories with open datasets:
   * [Global Daily Satellite Rainfall ](https://zenodo.org/record/2615279#.XSg3yugzaUl)
   * [The International Disaster Database (EM-DAT)](https://www.emdat.be/)
   * [EAC Kenya](https://eac.opendataforafrica.org/apps/atlas/Kenya)
- 
+  * [Nature Recommended Data Repos](https://www.nature.com/sdata/policies/repositories) 
+  * [DataCite - Re3Data](https://www.re3data.org/)
+  
 #### Reference
 1. [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
