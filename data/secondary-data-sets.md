@@ -49,6 +49,7 @@ list of repositories with open datasets:
   * [EAC Kenya](https://eac.opendataforafrica.org/apps/atlas/Kenya)
   * [Nature Recommended Data Repos](https://www.nature.com/sdata/policies/repositories) 
   * [DataCite - Re3Data](https://www.re3data.org/)
+  * [CGIAR-gardian](https://gardian.bigdata.cgiar.org)
   
 #### Reference
 1. [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
