@@ -7,7 +7,7 @@ Let x be a vector of numeric values. Basic statistics can be easily obatined usi
   sd(x) # standard deviation
   min(x) # Minimum value
   max(x)
-  length(x) # number of non-missing observations
+  length(x) # number of observations inclusive of observations with non-missing values
   range(x)
   quantile(x) #  0%  25%  50%  75% 100%  quartile values of the vector
   sum(x)
