@@ -31,6 +31,7 @@
   - [ACE II](https://ace2.iucea.org/)
   - [ASA External funding](https://www.amstat.org/ASA/Your-Career/External-Funding-Sources.aspx?hkey=fcbc4fca-5d3e-43bd-94e6-9848bc3d0830)
   - [ICTWorkd](https://www.ictworks.org/)
+  - [UK Research and Innovation](https://www.ukri.org/)
 
 ##### Crowdsourcing and seed funding
 * [ScaleFunder](https://mit.scalefunder.com/)
