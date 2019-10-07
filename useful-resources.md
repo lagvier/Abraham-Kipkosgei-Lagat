@@ -112,3 +112,6 @@
 
 #### Coding references
 - [Laravel](https://laravel.com/docs/5.8/migrations)
+
+#### Universities
+- [The International Association of Universities](https://www.whed.net/home.php)
