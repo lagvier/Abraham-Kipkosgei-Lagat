@@ -20,6 +20,7 @@
 * [UoN](http://dvcrpe.uonbi.ac.ke/content/funding-opportunities-0)
 * [Funds for NGOs](https://www2.fundsforngos.org/tag/kenya/)
 * [TUK](http://research.tukenya.ac.ke/index.php/funding/external-funding-opportunities)
+* [NSF](https://www.nsf.gov/funding/azindex.jsp)
 * [Opportunity desk](http://www.opportunitydesk.org/tag/kenya)
 * [IEEE](https://www.ieeefoundation.org/grants)
 * [WHO](https://www.who.int/management/newitems/en/index5.html)
