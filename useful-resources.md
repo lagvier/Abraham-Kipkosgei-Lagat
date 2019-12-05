@@ -23,6 +23,7 @@
 * [NSF](https://www.nsf.gov/funding/azindex.jsp)
 * [Opportunity desk](http://www.opportunitydesk.org/tag/kenya)
 * [IEEE](https://www.ieeefoundation.org/grants)
+* [Ashinaga](https://en.ashinaga.org/apply/aai/)
 * [WHO](https://www.who.int/management/newitems/en/index5.html)
 * [Bill & Melinda Gates](https://gcgh.grandchallenges.org/)
 * [NRF](www.researchfund.go.ke)
