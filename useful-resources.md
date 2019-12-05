@@ -12,36 +12,6 @@
 * [Satellites Pro](https://satellites.pro)
 * [Google Local Guide](https://support.google.com/local-guides/answer/6225851?hl=en)
 
-##### Funding information
-* [Aga Khan](http://www.akdn.org/our-agencies/aga-khan-foundation/scholarship)
-* [NIHR](https://www.nihr.ac.uk/funding-and-support/funding-opportunities)
-* [Science | AAAS](http://www.sciencemag.org/careers/where-search-funding)
-* [Oxford](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/scholarships-a-z-listing?wssl=1)
-* [UoN](http://dvcrpe.uonbi.ac.ke/content/funding-opportunities-0)
-* [Funds for NGOs](https://www2.fundsforngos.org/tag/kenya/)
-* [TUK](http://research.tukenya.ac.ke/index.php/funding/external-funding-opportunities)
-* [NSF](https://www.nsf.gov/funding/azindex.jsp)
-* [Opportunity desk](http://www.opportunitydesk.org/tag/kenya)
-* [IEEE](https://www.ieeefoundation.org/grants)
-* [Ashinaga](https://en.ashinaga.org/apply/aai/)
-* [WHO](https://www.who.int/management/newitems/en/index5.html)
-* [Bill & Melinda Gates](https://gcgh.grandchallenges.org/)
-* [NRF](www.researchfund.go.ke)
-* Consolidated list
-  - [Funding4Africa](http://www.funds4africa.org/en/category/calls-for-proposals/)
-  - [Fogarty list](https://www.fic.nih.gov/Funding/Pages/default.aspx)
-  - [AuthorAid](https://www.authoraid.info/en/funding/)
-  - [Early career central](https://ecrcentral.org/fundings)
-  - [Paedpard](https://paepard.blogspot.com/)
-  - [ACE II](https://ace2.iucea.org/)
-  - [ASA External funding](https://www.amstat.org/ASA/Your-Career/External-Funding-Sources.aspx?hkey=fcbc4fca-5d3e-43bd-94e6-9848bc3d0830)
-  - [ICTWorkd](https://www.ictworks.org/)
-  - [UK Research and Innovation](https://www.ukri.org/)
-
-##### Crowdsourcing and seed funding
-* [ScaleFunder](https://mit.scalefunder.com/)
-* [Catalytic fund](https://kenyacatalyticjobsfund.org/)
-
 ##### Media Resources
 * [Animated images](http://caccioppoli.com/Animations/)
 * [Audio Editor](https://www.bearaudiotool.com/)
