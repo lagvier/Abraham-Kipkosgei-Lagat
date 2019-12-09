@@ -1,5 +1,6 @@
 ## [Abraham Kipkosgei Lagat](https://www.linkedin.com/in/lagvier)
-##### __Email:__ abraham.lagat.k@gmail.com | __Skype:__ abraham.lagat.k
+##### __Email:__ abraham.lagat.k@gmail.com | <img src="<img src="https://findicons.com/files/icons/727/leopard/128/skype.png" width="25" height="25">__:__ abraham.lagat.k 
+ 
  
 ---
 #### Profile 
