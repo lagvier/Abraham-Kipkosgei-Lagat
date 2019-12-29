@@ -12,4 +12,4 @@
 ---
 Updated by
 
-[Abraham Lagat](https://www.linkedin.com)
+[Abraham Lagat](https://www.linkedin.com/in/lagvier)
