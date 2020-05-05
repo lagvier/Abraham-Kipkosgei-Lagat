@@ -1,7 +1,7 @@
 list of repositories with open datasets:
   * [WHO - Immunization](http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tscoveragemcv1.html)
   * [UN Databases](https://www.un.org/en/databases/)
-  * [COVID-19[(https://www.aminer.cn/data-covid19/)
+  * [COVID-19](https://www.aminer.cn/data-covid19/)
   * [IFRI](https://dataverse.harvard.edu/dataverse/IFPRI)
   * [FARA](http://faradatainforms.faraafrica.org/reports/search/type/data_dashboard)
   * ##### SDG Monitoring
