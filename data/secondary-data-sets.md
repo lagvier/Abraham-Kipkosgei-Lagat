@@ -1,5 +1,7 @@
 list of repositories with open datasets:
-  * [WHO - Immunization](http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tscoveragemcv1.html)
+  * WHO
+    - [Immunization](http://apps.who.int/immunization_monitoring/globalsummary/timeseries/tscoveragemcv1.html)
+    - [COVID-19 health and social measures](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/phsm)
   * [UN Databases](https://www.un.org/en/databases/)
   * [COVID-19](https://www.aminer.cn/data-covid19/)
   * [IFRI](https://dataverse.harvard.edu/dataverse/IFPRI)
