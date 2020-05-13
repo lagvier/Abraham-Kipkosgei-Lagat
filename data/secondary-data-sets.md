@@ -62,7 +62,9 @@ list of repositories with open datasets:
   * [CGIAR-gardian](https://gardian.bigdata.cgiar.org)
   * [Argis Hub Data](https://hub.arcgis.com/search)
   * [Air Quality Sensors data](https://archive.sensors.africa/)
-  * [Cancer Genomic Data](https://portal.gdc.cancer.gov/repository)
+  * Cancer Genomic Data
+    * [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov/repository)
+    * [ICGC Data Portal](https://dcc.icgc.org/search/m)
   
 #### Reference
 1. [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
