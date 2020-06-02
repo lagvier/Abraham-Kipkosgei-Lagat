@@ -70,3 +70,5 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [Symbolab](https://www.symbolab.com)
   * [AI Kenya](https://kenya.ai/intermediate/)
   
+* Business Skills
+ * [HP Life](https://www.life-global.org/)
