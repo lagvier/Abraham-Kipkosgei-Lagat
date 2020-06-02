@@ -71,4 +71,4 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [AI Kenya](https://kenya.ai/intermediate/)
   
 * Business Skills
- * [HP Life](https://www.life-global.org/)
+  * [HP Life](https://www.life-global.org/)
