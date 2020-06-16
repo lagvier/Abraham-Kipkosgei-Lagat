@@ -5,7 +5,7 @@
 ---
 #### Profile 
 
-A graduate in statistics with affinity in technololgy - Machine Learning and Internet of Things. A strategically-oriented statistical and data management professional experienced in use various application software and knowledge in intellectual property protection including licensing of Free and Open Source Software. Interested in utilizing machine learning and IoT technologies. Motivated, results-oriented, fast-learner, adaptable. 
+A graduate in statistics with affinity in technology - Machine Learning and Internet of Things. A strategically-oriented statistical and data management professional experienced in application of various statistical and programming software, and knowledge in intellectual property protection including licensing of Free and Open Source Software. Motivated, results-oriented, fast-learner, adaptable. 
 
 R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet of Things
 
