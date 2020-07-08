@@ -14,7 +14,7 @@
 - [Ayami](https://www.youtube.com/watch?v=OW21WTiFJX0)
 
 ##### Motivational
--[Mandy Harvey](https://www.youtube.com/watch?v=ZKSWXzAnVe0)
+- [Mandy Harvey](https://www.youtube.com/watch?v=ZKSWXzAnVe0)
 
 
 ##### Favourites songs
