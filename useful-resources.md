@@ -3,7 +3,7 @@
 * [Rstudio server - Ubuntu desktop](https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04)
 
 ##### Conversions
-* [Timezones](http://www.timebie.com/timezone/newyorkkenya.php)
+* [Timezones](http://www.timebie.com/timezone/centraleuropeansummerkenya.php)
 
 ##### CSPro
 * [Versions](https://www.csprousers.org/downloads/)
