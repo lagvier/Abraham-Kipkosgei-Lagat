@@ -31,6 +31,7 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [Measure Evaluation](https://www.measureevaluation.org/resources/training)
   * [NextGenU](http://nextgenu.org/pages/courses.php)
   * [The Johns Hopkins University Open Courseware](http://ocw.jhsph.edu/index.cfm/go/find.browse#courses)
+  * [Medical Learning Hub](https://medicallearninghub.com/search/course?query=#)
   
 * Emergency/First Aid
   * [ACLS Certification Institute](https://acls.com/free-resources)
