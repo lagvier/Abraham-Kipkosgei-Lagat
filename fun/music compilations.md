@@ -9,6 +9,7 @@
 - [Mike Perry - The Ocean](https://www.youtube.com/watch?v=5JxgDJvqGmM)
 - [Despacito](https://youtu.be/kJQP7kiw5Fk)
 - [Dive With Me](https://www.youtube.com/watch?v=YNywqtesX6c)
+- [Inside the Lines](https://www.youtube.com/watch?v=kbYbvDK-HlY)
 
 ##### Fun music
 - [moving sound from right to left](https://www.youtube.com/watch?v=KgFEZPEkd6Y)
