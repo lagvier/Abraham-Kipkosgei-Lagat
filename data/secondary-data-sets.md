@@ -4,6 +4,7 @@ list of repositories with open datasets:
     - [COVID-19 health and social measures](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/phsm)
   * [UN Databases](https://www.un.org/en/databases/)
   * [COVID-19](https://www.aminer.cn/data-covid19/)
+  * [COVID-19 US](https://data.ca.gov/group/covid-19)
   * [IFRI](https://dataverse.harvard.edu/dataverse/IFPRI)
   * [FARA](http://faradatainforms.faraafrica.org/reports/search/type/data_dashboard)
   * ##### SDG Monitoring
