@@ -15,6 +15,7 @@
 - [Someone You Loved](https://www.youtube.com/watch?v=FxdxAFe2620)
 - [Lost Sky](https://www.youtube.com/watch?v=b5BNUa_op2o)
 - [Heroes tonight](https://www.youtube.com/watch?v=n_pbaJdo4eY)
+- [The Script - Superheroes](https://www.youtube.com/watch?v=WIm1GgfRz6M)
 
 ##### Fun music
 - [moving sound from right to left](https://www.youtube.com/watch?v=KgFEZPEkd6Y)
