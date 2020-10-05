@@ -12,6 +12,9 @@
 - [Inside the Lines](https://www.youtube.com/watch?v=kbYbvDK-HlY)
 - [Otile Brown x Meddy - Dusuma](https://www.youtube.com/watch?v=V-lQWyevVTU)
 - [Music Mix](https://www.youtube.com/watch?v=jgDe-6WovPw)
+- [Someone You Loved](https://www.youtube.com/watch?v=FxdxAFe2620)
+- [Lost Sky](https://www.youtube.com/watch?v=b5BNUa_op2o)
+- [Heroes tonight](https://www.youtube.com/watch?v=n_pbaJdo4eY)
 
 ##### Fun music
 - [moving sound from right to left](https://www.youtube.com/watch?v=KgFEZPEkd6Y)
