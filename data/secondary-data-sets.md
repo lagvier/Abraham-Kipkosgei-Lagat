@@ -64,6 +64,7 @@ list of repositories with open datasets:
   * [The International Disaster Database (EM-DAT)](https://www.emdat.be/)
   * [EAC Kenya](https://eac.opendataforafrica.org/apps/atlas/Kenya)
   * [Nature Recommended Data Repos](https://www.nature.com/sdata/policies/repositories) 
+  * [Global Biodiversity data](https://www.gbif.org/)
   * [DataCite - Re3Data](https://www.re3data.org/)
   * [CGIAR-gardian](https://gardian.bigdata.cgiar.org)
   * [Argis Hub Data](https://hub.arcgis.com/search)
