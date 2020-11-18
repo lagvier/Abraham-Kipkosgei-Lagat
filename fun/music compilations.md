@@ -14,6 +14,8 @@
 - [Heroes tonight](https://www.youtube.com/watch?v=n_pbaJdo4eY)
 - [The Script - Superheroes](https://www.youtube.com/watch?v=WIm1GgfRz6M)
 - [Fátima Pinto - Feel Something](https://www.youtube.com/watch?v=zwqxrb7jGcg)
+- [Yamira feat. Mattyas - Waterfalls](https://www.youtube.com/watch?v=EjCLLChDlT0)
+- [LaRoxx Project - Goodbye My Love](https://www.youtube.com/watch?v=Bl6frqQAOJA)
 
 ##### Fun music
 - [Joeboy - Baby ](https://www.youtube.com/watch?v=I6wzhp4g2Cw)
@@ -26,3 +28,7 @@
 ##### Favourites songs
 - [Faded - Alan Walker](https://www.youtube.com/watch?v=60ItHLz5WEA&list=PLkN9IoY-hkDT-uUwXt0OKq1aLeSK2G40l&index=3)
 - [On My Way - Alan Walker, Sabrina Carpenter & Farruko](https://www.youtube.com/watch?v=dhYOPzcsbGM)
+
+
+##### Sounds/beats
+-[Arozin Sabyh - Fall In Love](https://www.youtube.com/watch?v=8iZTb9NWbz8)
