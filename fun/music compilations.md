@@ -17,6 +17,9 @@
 - [Yamira feat. Mattyas - Waterfalls](https://www.youtube.com/watch?v=EjCLLChDlT0)
 - [LaRoxx Project - Goodbye My Love](https://www.youtube.com/watch?v=Bl6frqQAOJA)
 - [Lastlings - False Reactions](https://www.youtube.com/watch?v=VjXMTW3HoCU)
+- [Italobrothers - Summer Air](https://www.youtube.com/watch?v=m_SSr-tbY_M)
+- [ItaloBrothers - Sleep When We're Dead](https://www.youtube.com/watch?v=6MReeYAcEUM)
+- [Klaas - Close To You](https://www.youtube.com/watch?v=Ao2LuHEcMzc)
 
 ##### Fun music
 - [Joeboy - Baby ](https://www.youtube.com/watch?v=I6wzhp4g2Cw)
