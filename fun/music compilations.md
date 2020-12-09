@@ -2,6 +2,12 @@
 ##### Kalenjin 
  - [ANGEN ALE INGEN ILE - Kimeto](https://www.youtube.com/watch?v=FSiw-XydSG8)
  - [AGURE KALENJIN](https://www.youtube.com/watch?v=b1Y4a8kzT1o)
+---
+##### Other
+ - [FROZEN](https://www.youtube.com/watch?v=L0MK7qz13bU)
+ - [Faded](https://www.youtube.com/watch?v=60ItHLz5WEA)
+ - [Axel Johansson - The River](https://www.youtube.com/watch?v=6Ai0XF9isk4)
+ - [Miracles](https://www.youtube.com/watch?v=ksLvTHXWMXk)
  - [Rayvanny - Naogopa ](https://www.youtube.com/watch?v=yJTfV2aAKZM)
  - [Only two of us](https://www.youtube.com/watch?v=jukhJtIhsik&list=PLWlTX25IDqIy_HeO8BsOyt0wAhE9No3Nt&index=3)
  - [Don Omar ](https://www.youtube.com/watch?v=7zp1TbLFPp8)
@@ -24,25 +30,23 @@
  - [ItaloBrothers - Sleep When We're Dead](https://www.youtube.com/watch?v=6MReeYAcEUM)
  - [Klaas - Close To You](https://www.youtube.com/watch?v=Ao2LuHEcMzc)
  - [Katy Perry - Unconditionally](https://www.youtube.com/watch?v=XjwZAa2EjKA)
- 
-##### Other
- - [FROZEN](https://www.youtube.com/watch?v=L0MK7qz13bU)
- - [Faded](https://www.youtube.com/watch?v=60ItHLz5WEA)
- - [Axel Johansson - The River](https://www.youtube.com/watch?v=6Ai0XF9isk4)
- - [Miracles](https://www.youtube.com/watch?v=ksLvTHXWMXk)
 
+---
 ##### Fun music
 - [Joeboy - Baby ](https://www.youtube.com/watch?v=I6wzhp4g2Cw)
 - [Ayami](https://www.youtube.com/watch?v=OW21WTiFJX0)
 
+---
 ##### Motivational
 - [Mandy Harvey](https://www.youtube.com/watch?v=ZKSWXzAnVe0)
 
-
+---
 ##### Favourites songs
 - [Faded - Alan Walker](https://www.youtube.com/watch?v=60ItHLz5WEA&list=PLkN9IoY-hkDT-uUwXt0OKq1aLeSK2G40l&index=3)
 - [On My Way - Alan Walker, Sabrina Carpenter & Farruko](https://www.youtube.com/watch?v=dhYOPzcsbGM)
 
-
+---
 ##### Sounds/beats
 -[Arozin Sabyh - Fall In Love](https://www.youtube.com/watch?v=8iZTb9NWbz8)
+
+---
