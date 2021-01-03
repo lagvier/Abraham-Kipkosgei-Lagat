@@ -61,7 +61,7 @@ R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet
 #### Experience 
 
 ##### Data Curator						Apr. 2019 – Date
-##### [CIMMYT](https://www.cimmyt.org/) | Nairobi, Kenya
+##### Nairobi, Kenya
 
 
 ##### Data Manager						Nov. 2016 – Mar. 2019
