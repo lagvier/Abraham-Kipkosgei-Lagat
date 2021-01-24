@@ -4,6 +4,11 @@
  - [AGURE KALENJIN](https://www.youtube.com/watch?v=b1Y4a8kzT1o)
  - [mureret by subembe](https://www.youtube.com/watch?v=4ui42hmeCyc)
 ---
+
+##### Maasai
+- [Oyee ](https://www.youtube.com/watch?v=iZVifj6qoMo)
+---
+
 ##### Other
  - [FROZEN](https://www.youtube.com/watch?v=L0MK7qz13bU)
  - [Faded](https://www.youtube.com/watch?v=60ItHLz5WEA)
