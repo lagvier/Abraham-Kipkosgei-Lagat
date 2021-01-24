@@ -7,6 +7,7 @@
 
 ##### Maasai
 - [Oyee ](https://www.youtube.com/watch?v=iZVifj6qoMo)
+  - [Codes](https://chordu.com/chords-tabs-lemarti-oyee-remix-official-video-sms-skiza-9044209-to-811--id_quc1i2tW6os)
 ---
 
 ##### Other
