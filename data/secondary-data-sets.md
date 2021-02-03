@@ -73,7 +73,7 @@ list of repositories with open datasets:
     * [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov/repository)
     * [ICGC Data Portal](https://dcc.icgc.org/search/m)
   * [Yield Gap](http://www.yieldgap.org/web/guest/download_data)
-  * [ML Data](https://www.paperswithcode.com/datasets)
+  * [Machine Learning Datasets](https://www.paperswithcode.com/datasets)
   
 #### Reference
 1. [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
