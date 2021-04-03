@@ -46,9 +46,6 @@ list of repositories with open datasets:
   * [UN Data](http://data.un.org/Explorer.aspx?d=CLINO)
   * [Elite Data Science data](https://elitedatascience.com/datasets)
   * [Information is beautiful](https://informationisbeautiful.net/data/)
-
-#### Genomics 
-* [HIV Resistance Database](https://hivdb.stanford.edu/cgi-bin/gbReference_internal.cgi)
   * [Curated list of public datasets](https://github.com/llSourcell/awesome-public-datasets)
   * [World Bank](https://data.worldbank.org/)
   * [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://apps.ecmwf.int/datasets/)
@@ -79,5 +76,8 @@ list of repositories with open datasets:
   * [Yield Gap](http://www.yieldgap.org/web/guest/download_data)
   * [Machine Learning Datasets](https://www.paperswithcode.com/datasets)
   
+#### Genomics 
+* [HIV Resistance Database](https://hivdb.stanford.edu/cgi-bin/gbReference_internal.cgi)
+
 #### Reference
 1. [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
