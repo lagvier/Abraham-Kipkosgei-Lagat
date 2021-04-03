@@ -69,15 +69,14 @@ list of repositories with open datasets:
   * [DataCite - Re3Data](https://www.re3data.org/)
   * [CGIAR-gardian](https://gardian.bigdata.cgiar.org)
   * [Argis Hub Data](https://hub.arcgis.com/search)
-  * [Air Quality Sensors data](https://archive.sensors.africa/)
-  * Cancer Genomic Data
-    * [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov/repository)
-    * [ICGC Data Portal](https://dcc.icgc.org/search/m)
+  * [Air Quality Sensors data](https://archive.sensors.africa/)    
   * [Yield Gap](http://www.yieldgap.org/web/guest/download_data)
   * [Machine Learning Datasets](https://www.paperswithcode.com/datasets)
   
 #### Genomics 
 * [HIV Resistance Database](https://hivdb.stanford.edu/cgi-bin/gbReference_internal.cgi)
+* [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov/repository)
+* [ICGC Data Portal](https://dcc.icgc.org/search/m)
 
 #### Reference
 1. [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
