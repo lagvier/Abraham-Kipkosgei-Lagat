@@ -73,10 +73,13 @@ list of repositories with open datasets:
   * [Yield Gap](http://www.yieldgap.org/web/guest/download_data)
   * [Machine Learning Datasets](https://www.paperswithcode.com/datasets)
   
+#### Biodiversity
+* [Interaction Web Database](http://www.ecologia.ib.usp.br/iwdb/resources.html)
+
 #### Genomics 
 * [HIV Resistance Database](https://hivdb.stanford.edu/cgi-bin/gbReference_internal.cgi)
 * [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov/repository)
 * [ICGC Data Portal](https://dcc.icgc.org/search/m)
 
-#### Reference
+#### References
 1. [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
