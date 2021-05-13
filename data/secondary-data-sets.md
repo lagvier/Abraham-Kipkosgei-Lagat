@@ -16,6 +16,9 @@ List of repositories with open datasets:
     * [UN Global Platform](https://marketplace.officialstatistics.org/datasets)
     * [UN Statistics](https://unstats.un.org/home/)
     * [UN Economic Commission for Europe](https://w3.unece.org/PXWeb/en)
+    * [UN Data](http://data.un.org/Explorer.aspx?d=CLINO)
+    * [UNEP Data](http://geodata.grid.unep.ch/)
+    * [World Bank](https://data.worldbank.org/)
 
   * ##### Agricuture and Food Security
     * [CGIAR-gardian](https://gardian.bigdata.cgiar.org)
@@ -23,6 +26,8 @@ List of repositories with open datasets:
     * [NAFIS](http://www.nafis.go.ke/wp-content/uploads/)
     * [Yield Gap](http://www.yieldgap.org/web/guest/download_data)
     * [IFRI](https://dataverse.harvard.edu/dataverse/IFPRI)
+    * [ILRI](http://data.ilri.org/portal/dataset)
+    * [ILRI External](http://data.ilri.org/portal/dataset?organization=ilri)
 
   * ##### Satellite and Webcams 
     * [NASA API](https://data.nasa.gov/)
@@ -53,10 +58,8 @@ List of repositories with open datasets:
     * [Diverse Data](https://data.humdata.org/dataset)  * 
     * [freebase](https://developers.google.com/freebase/)
     * [ARCGis Open Data](https://hub.arcgis.com/pages/open-data)
-    * [UNEP Data](http://geodata.grid.unep.ch/)
     * [Neurology data](https://openneuro.org/public/datasets)
     * [Companies](https://opencorporates.com/companies?jurisdiction_code=&q=&utf8=%E2%9C%93)
-    * [ILRI External](http://data.ilri.org/portal/dataset?organization=ilri) | [ILRI](http://data.ilri.org/portal/dataset)
     * [Africa open data](https://africaopendata.org/datarequest)
     * [TranStatsData](https://transtats.bts.gov/ftproot/TranStatsData/)
     * [The Armed Conflict Location & Event Data Project (ACLED)](https://www.acleddata.com/data/)
@@ -64,11 +67,9 @@ List of repositories with open datasets:
     * [Cancer molecular](https://wiki.nci.nih.gov/display/NCIDTPdata/Molecular+Target+Data)
     * [OpenML Data](https://www.openml.org/search?type=data)
     * [Grouplens: movie recommendations](https://grouplens.org/datasets/movielens/)
-    * [UN Data](http://data.un.org/Explorer.aspx?d=CLINO)
     * [Elite Data Science data](https://elitedatascience.com/datasets)
     * [Information is beautiful](https://informationisbeautiful.net/data/)
-    * [Curated list of public datasets](https://github.com/llSourcell/awesome-public-datasets)
-    * [World Bank](https://data.worldbank.org/)
+    * [Curated list of public datasets](https://github.com/llSourcell/awesome-public-datasets) 
     * [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://apps.ecmwf.int/datasets/)
     * [Caltech](http://www.vision.caltech.edu/html-files/archive.html)
     * [Accu Weather](https://www.accuweather.com/en/ke/kenya-weather)
