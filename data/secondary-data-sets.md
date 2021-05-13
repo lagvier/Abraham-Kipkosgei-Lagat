@@ -41,6 +41,7 @@ List of repositories with open datasets:
     * [Interaction Web Database](http://www.ecologia.ib.usp.br/iwdb/resources.html)
     * [Global Biodiversity data](https://www.gbif.org/)
     * [ICARDA](https://data.mel.cgiar.org/dataverse/meldata)
+    * [ICRAF](https://data.worldagroforestry.org/)
 
   * #### Genomics 
     * [HIV Resistance Database](https://hivdb.stanford.edu/cgi-bin/gbReference_internal.cgi)
