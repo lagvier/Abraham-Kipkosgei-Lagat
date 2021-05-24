@@ -47,6 +47,7 @@ List of repositories with open datasets:
     * [HIV Resistance Database](https://hivdb.stanford.edu/cgi-bin/gbReference_internal.cgi)
     * [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov/repository)
     * [ICGC Data Portal](https://dcc.icgc.org/search/m)
+    * [Standford Genome Datasets](https://dna-discovery.stanford.edu/publicmaterial/datasets)
         
   * ##### Other datasets  
     * [CDAS data](https://pypi.org/project/ai.cdas/)
