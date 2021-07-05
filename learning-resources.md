@@ -23,6 +23,7 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [Google Digital Skills](https://learndigital.withgoogle.com/digitalskills)
   * [Free Courses Online](https://www.freecoursesonline.me/?1)
   * [Online Learning Materials](http://www.openculture.com/)
+  * [Johns Hopkins Open Courses](http://ocw.jhsph.edu/index.cfm/go/find.browse#courses)
   
 * Healthcare
   * [CDC Train](https://www.cdc.gov/learning/)
