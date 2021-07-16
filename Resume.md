@@ -141,7 +141,7 @@ To learn and identify areas of improvements and knowledge transfer on the follow
 *	[The International Statistical Institute (ISI)](https://isi-web.org/index.php/about-isi/who-is-isi/members/indivual) 	&nbsp;	 Joined 2013. Membership Number - 16757.
 *	[The American Statistical Association (ASA)](https://www.amstat.org/)	&nbsp; Joined 2016. Membership Number - 194281.
 *	[European Network of Business and Industrial Statistics (ENBIS)](https://enbis.org/)	&nbsp;	Joined 2013
-* [Statistics Without Borders](StatisticsWithoutBorders.org) 	&nbsp; Joined 2020
+* [Statistics Without Borders](https://swb.wildapricot.org/) 	&nbsp; Joined 2020
 * [AI Kenya](https://kenya.ai/) 	&nbsp; Since 2018.
 ---
 #### Personal profiles
