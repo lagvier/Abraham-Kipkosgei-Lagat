@@ -27,6 +27,7 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   
 * Healthcare
   * [CDC Train](https://www.cdc.gov/learning/)
+  * [EHDEN Academy](https://academy.ehden.eu/)
   * [WHO](https://openwho.org)
   * [Global Health Learning](https://www.globalhealthlearning.org)
   * [Measure Evaluation](https://www.measureevaluation.org/resources/training)
