@@ -30,6 +30,7 @@ List of repositories with open datasets:
 
   * ##### Satellite and Webcams 
     * [NASA API](https://data.nasa.gov/)
+    * [HALO Database](https://halo-db.pa.op.dlr.de/)
     * [NASA](https://api.nasa.gov/api.html#genelab)
     * [NASA Sounds](https://www.nasa.gov/connect/sounds/index.html)
     * [Kenya Traffic](https://traffic.is.co.ke/)
