@@ -97,6 +97,7 @@ List of repositories with open datasets:
 
  #### Machine learning
    * [Computer Vision](https://public.roboflow.com/)
+   * [Various data](https://github.com/dphi-official/Datasets)
 
 #### References
 1. [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
