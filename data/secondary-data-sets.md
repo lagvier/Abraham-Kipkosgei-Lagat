@@ -95,6 +95,8 @@ List of repositories with open datasets:
     * [Air Quality Sensors data](https://archive.sensors.africa/) 
     * [Machine Learning Datasets](https://www.paperswithcode.com/datasets)
 
+ #### Machine learning
+   * [Computer Vision](https://public.roboflow.com/)
 
 #### References
 1. [SDG Indicators](https://sustainabledevelopment.un.org/content/documents/11803Official-List-of-Proposed-SDG-Indicators.pdf)
