@@ -54,7 +54,7 @@ R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet
 ---
 
 #### Technical outputs
-
+* [Sample Size Calculator Decision Tool](https://resourcecentre.savethechildren.net/document/sample-size-calculator-decision-tool/)
 *	Roberts, A, and Nutter, N. (2017). [Method of Calculation of Combined-Over-Years Uniformity Criterion (COYU): Practical Exercise, Probability Levels, Extrapolation & Software](https://www.upov.int/edocs/mdocs/upov/en/twc_33/twc_33_16.pdf). Contribution to the *UPOV Technical Working Party on Automation and Computer Programs(TWC)*
 ---
 
