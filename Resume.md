@@ -47,16 +47,14 @@ R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet
 * Tom A., et al (2018). [Health disparities across the counties of Kenya and implications for policy makers, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016](https://bit.ly/2Q8Za32). *The Lancet Global Health*.    
 * Lozano, R., et al. (2018). [Measuring progress from 1990 to 2017 and projecting attainment to 2030 of the health-related Sustainable Development Goals for 195 countries and territories: a systematic analysis for the Global Burden of Disease Study 2017](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32281-5/fulltext). *Global Health Metrics*. Volume 392(10159), pp.2091-2138
 * Lagat, A., Waititu, A., Wanjoya, A. (2017). [Support Vector Regression and Artificial Neural Network Approaches: Case of Economic Growth in East Africa Community](http://payment.isi2017.org/wp-content/images/Schedule.pdf). Poster Session at: *61st World Statistics Congress; July 16-21*. Marrakech, Morocco.
+* Haidong, W., et al (2017). [Global, regional, and national under-5 mortality, adult mortality, age-specific mortality, and life expectancy, 1970–2016: a systematic analysis for the Global Burden of Disease Study 2016](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)31833-0/fulltext). *Lancet*, 390(10100), pp.1084-1150.
 * Lagat A., (2016). [Addressing food security challenges in developing countries](http://2016.biometricconference.org/showcases/isi-showcase). In Basford, K. (Chair) Global Food Security: the role of statisticians and statistical science. ISI Invited Session at *28th International Biometric Conference*. July 10 – 15. Victoria, Canada
 * Lagat, A., and Ngeny, J. M. (2016). [Spatio-temporal analysis of yield trends for recommended maize varieties in Kenya](http://2018.biometricconference.org/wp-content/uploads/2015/02/16.06.27-International-Biometric-Conference-2016-Program-Layout-v11-....pdf). Paper presented at: *28th International Biometric Conference*. July 10–15. Victoria, Canada
 * Lagat A., and Korir, B. (2010). *Modeling of Meteorological Factors on Maize Quality: A case of Eldoret Region* (Unpublished Research Work). School of Mathematics and Computer Science, Moi University, Kenya.
 ---
 
-#### Collaborative Contributions
-*	Irimu, G., et al. (2018). Approaching quality improvement at scale: a learning health system approach in Kenya. *Global Child Health*. 103, pp.1013–1019
-*	Gachau, S., et al (2018). Prevalence, outcome and quality of care among children hospitalized with severe acute malnutrition in Kenyan hospitals: A multi-site observational study. *PLOS One*, 13(5)
-*	Gachau, S., et al (2017). Does audit and feedback improve the adoption of recommended practices? Evidence from a longitudinal observational study of an emerging clinical network in Kenya. *BMJ Global Health*, 2(4)
-*	Haidong, W., et al (2017). [Global, regional, and national under-5 mortality, adult mortality, age-specific mortality, and life expectancy, 1970–2016: a systematic analysis for the Global Burden of Disease Study 2016](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)31833-0/fulltext). *Lancet*, 390(10100), pp.1084-1150. 
+#### Technical outputs
+
 *	Roberts, A, and Nutter, N. (2017). [Method of Calculation of Combined-Over-Years Uniformity Criterion (COYU): Practical Exercise, Probability Levels, Extrapolation & Software](https://www.upov.int/edocs/mdocs/upov/en/twc_33/twc_33_16.pdf). Contribution to the *UPOV Technical Working Party on Automation and Computer Programs(TWC)*
 ---
 
