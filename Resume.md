@@ -41,7 +41,7 @@ R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet
 
 #### Publications and Conference Contributions
 * Lagat, A. K, Kangogo, J. and Biwott, C. J (2021). Analysis of Land Cover Changes in Cherangani Hills Forest, Kenya. Paper presented at: [IBS SUSAN 2021](https://www.susan2021.ibskenya.org) Conference. 6 -9 September, 2021
-* Musundure , L.L., et al (2021). *Stability Assessment of Single Cross Maize Hybrids Using GGE Biplot Analysis . Journal of A gricultural Science 13(2):78 .
+* Musundure , L.L., et al (2021). [Stability Assessment of Single Cross Maize Hybrids Using GGE Biplot Analysis](https://ccsenet.org/journal/index.php/jas/article/view/0/44581) . Journal of A gricultural Science 13(2):78 .
 * Lagat, A. K, Koech, V. K and Biwott, C. J (2019) [Growth of Dairy Farming Societies in Kenya](https://www.cuk.ac.ke/event/3rd-annual-conference/). Paper presented at: *3rd CUK Annual Conference.* March 25–26. Nairobi, Kenya
 * Lagat, A., Biwott, C. and Komen, R. (2018).  [Modeling temporal volatility of farm produce prices in Kenya](http://ojs.jkuat.ac.ke/index.php/jscp/article/view/468/448). *Proceedings of the 2018 JKUAT Scientific Technological and Industrialization Conference* (pp 306-314). Jomo Kenyatta University of Agriculture and Technology, November 15–16. Nairobi, Kenya
 * Tom A., et al (2018). [Health disparities across the counties of Kenya and implications for policy makers, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016](https://bit.ly/2Q8Za32). *The Lancet Global Health*.    
