@@ -63,7 +63,6 @@ R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet
 ##### Data Curator						Apr. 2019 – Date
 ##### Nairobi, Kenya
 
-
 ##### Data Manager						Nov. 2016 – Mar. 2019
 ##### [KEMRI-Wellcome Trust Research Programme](http://www.kemri-wellcome.org) | Nairobi, Kenya
 *	Designing and updating data collection tools and Installation and updating operating systems and database systems for fieldwork
