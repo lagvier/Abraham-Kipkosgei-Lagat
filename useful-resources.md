@@ -91,3 +91,7 @@
 #### Universities
 - [The International Association of Universities](https://iau-aiu.net/)
 - [IAU WHED Portal](https://www.whed.net/home.php)
+
+
+#### Country Documents
+- [Constitutions](https://www.constituteproject.org/)
