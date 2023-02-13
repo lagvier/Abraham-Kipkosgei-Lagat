@@ -8,6 +8,7 @@ List of repositories with open datasets:
     - [COVID-19 Data](https://www.marktechpost.com/2020/04/12/list-of-covid-19-resources-for-machine-learning-and-data-science-research/)
     - [DHS](https://dhsprogram.com/data/available-datasets.cfm)
     - [Zika Virus](https://github.com/cdcepi/zika)
+    - [U.S. Centers for Medicare & Medicaid Services](https://data.cms.gov/)
   
   * ##### UN Agencies and SDG Monitoring
     * [UN Databases](https://www.un.org/en/databases/)  
