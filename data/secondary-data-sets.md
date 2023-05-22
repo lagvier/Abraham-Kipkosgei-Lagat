@@ -50,6 +50,7 @@ List of repositories with open datasets:
     * [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov/repository)
     * [ICGC Data Portal](https://dcc.icgc.org/search/m)
     * [Standford Genome Datasets](https://dna-discovery.stanford.edu/publicmaterial/datasets)
+    * [Egg plant](https://ics.hutton.ac.uk/cwr/eggplant/#/home)
         
   * ##### Other datasets  
     * [CDAS data](https://pypi.org/project/ai.cdas/)
