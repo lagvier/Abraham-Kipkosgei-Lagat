@@ -9,6 +9,8 @@ List of repositories with open datasets:
     - [DHS](https://dhsprogram.com/data/available-datasets.cfm)
     - [Zika Virus](https://github.com/cdcepi/zika)
     - [U.S. Centers for Medicare & Medicaid Services](https://data.cms.gov/)
+    - [IHME-GDB](https://ghdx.healthdata.org/ihme_data), [Another interface](https://ghdx.healthdata.org/series_and_systems)
+    - [DHS]([http://ghdx.healthmetricsandevaluation.org/series/dhs-malaria-indicator-survey-mis](https://ghdx.healthdata.org/series_and_systems))
   
   * ##### UN Agencies and SDG Monitoring
     * [UN Databases](https://www.un.org/en/databases/)  
@@ -20,6 +22,8 @@ List of repositories with open datasets:
     * [UN Data](http://data.un.org/Explorer.aspx?d=CLINO)
     * [UNEP Data](http://geodata.grid.unep.ch/)
     * [World Bank](https://data.worldbank.org/)
+    * [UN Data Explorer](http://data.un.org/Explorer.aspx)
+    * [World Bank-WDI](https://data.worldbank.org/indicatoR)
 
   * ##### Agricuture and Food Security
     * [CGIAR-gardian](https://gardian.bigdata.cgiar.org)
@@ -96,6 +100,7 @@ List of repositories with open datasets:
     * [Argis Hub Data](https://hub.arcgis.com/search)
     * [Air Quality Sensors data](https://archive.sensors.africa/) 
     * [Machine Learning Datasets](https://www.paperswithcode.com/datasets)
+
 
  #### Machine learning
    * [Computer Vision](https://public.roboflow.com/)
