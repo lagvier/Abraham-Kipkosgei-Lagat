@@ -24,6 +24,7 @@ List of repositories with open datasets:
     * [World Bank](https://data.worldbank.org/)
     * [UN Data Explorer](http://data.un.org/Explorer.aspx)
     * [World Bank-WDI](https://data.worldbank.org/indicatoR)
+    * [UN COMTRADE](https://comtradeplus.un.org/)
 
   * ##### Agricuture and Food Security
     * [CGIAR-gardian](https://gardian.bigdata.cgiar.org)
