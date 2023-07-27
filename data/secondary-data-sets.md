@@ -101,6 +101,7 @@ List of repositories with open datasets:
     * [Argis Hub Data](https://hub.arcgis.com/search)
     * [Air Quality Sensors data](https://archive.sensors.africa/) 
     * [Machine Learning Datasets](https://www.paperswithcode.com/datasets)
+    * [Canada Parliament Hanzards](https://www.lipad.ca/)
 
 
  #### Machine learning
