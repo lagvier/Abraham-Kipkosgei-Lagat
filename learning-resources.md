@@ -24,6 +24,7 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
   * [Free Courses Online](https://www.freecoursesonline.me/?1)
   * [Online Learning Materials](http://www.openculture.com/)
   * [Swayam](https://onlinecourses.nptel.ac.in/)
+  * [African Drone and Data Academy](https://adda.outreach.vt.edu/login/index.php)
   
 * Healthcare
   * [CDC Train](https://www.cdc.gov/learning/)
@@ -56,6 +57,7 @@ A curated list diverse courses and training offered as on self-paced Massive Onl
 
 * Languages
   * [Spanish](http://www.englishnspanish.com/audio)
+  * [Duologino - Various languages](https://www.duolingo.com/)
 
 * Competitions
   * [kaggle](https://www.kaggle.com)
