@@ -33,7 +33,10 @@ List of repositories with open datasets:
     * [Yield Gap](http://www.yieldgap.org/web/guest/download_data)
     * [IFRI](https://dataverse.harvard.edu/dataverse/IFPRI)
     * [ILRI](http://data.ilri.org/portal/dataset)
-
+  
+  * ##### Wildlife
+    * [AIMS-Ecology](https://ml-ecology.aims.ac.za/datasets)
+  
   * ##### Satellite and Webcams 
     * [NASA API](https://data.nasa.gov/)
     * [HALO Database](https://halo-db.pa.op.dlr.de/)
