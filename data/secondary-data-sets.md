@@ -52,7 +52,10 @@ List of repositories with open datasets:
     * [Global Biodiversity data](https://www.gbif.org/)
     * [ICARDA](https://data.mel.cgiar.org/dataverse/meldata)
     * [ICRAF](https://data.worldagroforestry.org/)
-
+   
+  * #### Drone Images
+    * [OpenDroneMap](https://www.opendronemap.org/odm/datasets/)
+      
   * #### Genomics 
     * [HIV Resistance Database](https://hivdb.stanford.edu/cgi-bin/gbReference_internal.cgi)
     * [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov/repository)
