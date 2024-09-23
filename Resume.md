@@ -40,12 +40,12 @@ R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet
 ---
 
 #### Publications and Conference Contributions
-* Chaibva, et al (2024), *[Adaptation, Path Coefficient and Correlation Study of Yield and Associated Traits in Common Bean (Phaseolus vulgaris L.) Genotypes](https://doi.org/10.5539/jas.v16n10p65)*. Journal of Agricultural Science.
-* Dickson O Ligeyo et al (2024), *[Genetic trends in the Kenya Highland Maize Breeding Program between 1999 and 2020](https://doi.org/10.3389/fpls.2024.1416538)*. Frontiers in Plant Science
+* Chaibva, et al (2024). [Adaptation, Path Coefficient and Correlation Study of Yield and Associated Traits in Common Bean (Phaseolus vulgaris L.) Genotypes](https://doi.org/10.5539/jas.v16n10p65). *Journal of Agricultural Science*.
+* Dickson O Ligeyo et al (2024). [Genetic trends in the Kenya Highland Maize Breeding Program between 1999 and 2020](https://doi.org/10.3389/fpls.2024.1416538). *Frontiers in Plant Science*
+* Naghavi, M. et al (2024), [Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021](). *The Lancet*
 * Lagat, A. K, Kangogo, J. and Biwott, C. J (2021). *Analysis of Land Cover Changes in Cherangani Hills Forest, Kenya*. Paper presented at: [IBS SUSAN 2021](https://www.susan2021.ibskenya.org) Conference. 6 -9 September, 2021
-* Naghavi, M. et al (2024), [Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021](). The Lancet
-* Musundure , L.L., et al (2021). [Stability Assessment of Single Cross Maize Hybrids Using GGE Biplot Analysis](https://ccsenet.org/journal/index.php/jas/article/view/0/44581) . Journal of Agricultural Science 13(2):78 .
-* Lagat, A. K, Koech, V. K and Biwott, C. J (2019). *Growth of Dairy Farming Societies in Kenya*. Paper presented at: [3rd CUK Annual Conference](https://www.cuk.ac.ke/event/3rd-annual-conference/).* March 25–26. Nairobi, Kenya
+* Musundure , L.L., et al (2021). [Stability Assessment of Single Cross Maize Hybrids Using GGE Biplot Analysis](https://ccsenet.org/journal/index.php/jas/article/view/0/44581) . *Journal of Agricultural Science* 13(2):78 .
+* Lagat, A. K, Koech, V. K and Biwott, C. J (2019). **Growth of Dairy Farming Societies in Kenya**. Paper presented at: *[3rd CUK Annual Conference](https://www.cuk.ac.ke/event/3rd-annual-conference/).* March 25–26. Nairobi, Kenya
 * Lagat, A., Biwott, C. and Komen, R. (2018).  [Modeling temporal volatility of farm produce prices in Kenya](http://ojs.jkuat.ac.ke/index.php/jscp/article/view/468/448). *Proceedings of the 2018 JKUAT Scientific Technological and Industrialization Conference* (pp 306-314). Jomo Kenyatta University of Agriculture and Technology, November 15–16. Nairobi, Kenya
 * Tom A., et al (2018). [Health disparities across the counties of Kenya and implications for policy makers, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016](https://bit.ly/2Q8Za32). *The Lancet Global Health*.    
 * Lozano, R., et al. (2018). [Measuring progress from 1990 to 2017 and projecting attainment to 2030 of the health-related Sustainable Development Goals for 195 countries and territories: a systematic analysis for the Global Burden of Disease Study 2017](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32281-5/fulltext). *Global Health Metrics*. Volume 392(10159), pp.2091-2138
@@ -56,8 +56,8 @@ R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet
 * Lagat A., and Korir, B. (2010). *Modeling of Meteorological Factors on Maize Quality: A case of Eldoret Region* (Unpublished Research Work). School of Mathematics and Computer Science, Moi University, Kenya.
 ---
 
-#### Technical outputs
-* Armeier, K. et al (2022), [Sample Size Calculator Decision Tool](https://resourcecentre.savethechildren.net/document/sample-size-calculator-decision-tool/). Statistics Without Borders & Save The Children
+#### Technical Contributions
+* Armeier, K. et al (2022), [Sample Size Calculator Decision Tool](https://resourcecentre.savethechildren.net/document/sample-size-calculator-decision-tool/). *Statistics Without Borders* & *Save The Children*
 *	Roberts, A, and Nutter, N. (2017). [Method of Calculation of Combined-Over-Years Uniformity Criterion (COYU): Practical Exercise, Probability Levels, Extrapolation & Software](https://www.upov.int/edocs/mdocs/upov/en/twc_33/twc_33_16.pdf). Contribution to the *UPOV Technical Working Party on Automation and Computer Programs(TWC)*
 ---
 
