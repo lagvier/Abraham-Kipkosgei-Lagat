@@ -39,7 +39,7 @@ R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet
 * Feb. – May. 2008: 	Statistical software(SPSS), [Data to Information Institute](https://www.d2ikenya.com)
 ---
 
-#### Publications and Conference Contributions
+#### Scientific Contributions
 * Chaibva, et al (2024). [Adaptation, Path Coefficient and Correlation Study of Yield and Associated Traits in Common Bean (Phaseolus vulgaris L.) Genotypes](https://doi.org/10.5539/jas.v16n10p65). *Journal of Agricultural Science*.
 * Dickson O Ligeyo et al (2024). [Genetic trends in the Kenya Highland Maize Breeding Program between 1999 and 2020](https://doi.org/10.3389/fpls.2024.1416538). *Frontiers in Plant Science*
 * Naghavi, M. et al (2024), [Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021](). *The Lancet*
