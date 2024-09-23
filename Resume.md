@@ -153,7 +153,6 @@ To learn and identify areas of improvements and knowledge transfer on the follow
  [Github](https://github.com/lagvier/) &nbsp; &nbsp;
  [twitter](https://twitter.com/lagvier) &nbsp; &nbsp;
  [Website](https://www.lagvier.com) &nbsp; &nbsp;
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 
 
