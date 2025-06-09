@@ -28,6 +28,14 @@ R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet
 ---
 
 #### Trainings
+* Jun-Oct 2024:		Data Engineering Essentials using SQL, Python, and PySpark, CIMMYT/Udemy
+* Feb-Apr 2024:	Data Engineering Zoomcamp, DataTalks Club
+* Jun-Jul 2023:		Data Visualization and Cartography, African Drone & Data Academy
+* May-Jun 2023:	Remotely Piloted Aircraft Technology (RPAT), African Drone & Data Academy
+* Sep-Dec 2021:	Machine Learning Zoomcamp, DataTalks Club
+* May 10-21, 2021:       	Biodiversity Informatics, Biodiversity Summer School (AIMS)
+* Feb – Apr 2020:        	Spatial Data Science, ESRI
+* Mar-Dec 2019:	Microsoft Professional Capstone: Data Science, Microsoft
 * Jul. 2018:	Open Data Management in Agriculture and Nutrition, [The GODAN Action Network](https://www.godan.info)
 * Dec. 2017 – Mar. 2018:	Advanced Course on Software Licensing including Open Source,  [World Bank/WIPO](https://welc.wipo.int/index_en.php)
 * Sep - Oct. 2014: 	Developing Data Products, [Coursera](https://www.coursera.org)
@@ -36,7 +44,7 @@ R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet
 * Sep. - Oct. 2012: 	Computing for Data Analysis (Introduction to R), [Coursera](https://www.coursera.org)
 * Jun. 2011: 		M & E Fundamentals, [Measure Evaluation](https://www.measureevaluation.org) 
 * Aug-Nov. 2010: 	Fundamentals of Project Management, [PM4DEV](https://www.pm4dev.com) 
-* Aug - Sep. 2010: 	Introduction to Biostatistics e-training, Fogarty and Johns Hopkins 
+* Aug - Sep. 2010: 	Introduction to Biostatistics e-training, Fogarty and Johns Hopkins
 * 2008 - 2009: 		HTML and Introduction to PHP, ChepNet Web Developers Club 
 * Feb. – May. 2008: 	Statistical software(SPSS), [Data to Information Institute](https://www.d2ikenya.com)
 ---
