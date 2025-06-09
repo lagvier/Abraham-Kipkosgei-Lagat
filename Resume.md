@@ -75,6 +75,15 @@ R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet
 
 ##### Data Curator						Apr. 2019 – Date
 ##### Nairobi, Kenya
+*	Compiling, and carrying out quality checks for breeding and trials data from breeding programs in Africa and Southern Asia and ensure all data files meet minimal metadata standards
+*	Collect, prepare, and load files into databases and/or repositories by carrying out standardized data quality control processes and routine data transformations.
+*	Analysis of experimental data – phenotypic, genomic and spatial data
+*	Develop and help debug analytical codes –R software
+*	Train technicians and breeders in the use of breeding information systems and data analysis software
+*	Provide on-site support for the use of breeding information management-related hardware such as tablets, printers, and barcode scanners.
+*	Determine regional breeding workflows and develop protocols for inventory management and supervise inventory updating
+*	Supervise inventory management for breeding programs in Eastern and Southern Africa regions
+
 
 ##### Data Manager						Nov. 2016 – Mar. 2019
 ##### [KEMRI-Wellcome Trust Research Programme](http://www.kemri-wellcome.org) | Nairobi, Kenya
