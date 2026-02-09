@@ -65,6 +65,7 @@ List of repositories with open datasets:
         
   * ##### Other datasets  
     * [CDAS data](https://pypi.org/project/ai.cdas/)
+    * [R packages](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
     * [Global fires](http://www.globalfiredata.org/)
     * [unops](https://data.unops.org/index.htm#SegmentCode=ORG&FocusCode=DATA_SECTORS&EntityCode=ORG_CODE&EntityValue=UNOPS##SectionCode=OVERVIEW)
     * [EGG](https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
