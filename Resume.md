@@ -50,6 +50,8 @@ R, SAS, Android, java, C++, Python, SPSS, QGis, Ruby, Machine learning, Internet
 ---
 
 #### Scientific Contributions
+* Sinyinda, L., Mwansa, K., Lwinya, K., Mbulwe, M., Sneller, C., Das, B., Lagat, A., Wegary, D., Prasanna, B. M., & Musundire, L. (2026). [Genetic Trends of the Maize Breeding Program at the Zambia Agriculture Research Institute](https://www.mdpi.com/2073-4395/16/12/1210). *Agronomy*, 16(12), 1210.
+* Naghavi M, Kyu H, A B et al.(2025). [Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01917-8/fulltext). *The Lancet*, 406, 1811-1872
 * Chaibva, et al (2024). [Adaptation, Path Coefficient and Correlation Study of Yield and Associated Traits in Common Bean (Phaseolus vulgaris L.) Genotypes](https://doi.org/10.5539/jas.v16n10p65). *Journal of Agricultural Science*.
 * Dickson O Ligeyo et al (2024). [Genetic trends in the Kenya Highland Maize Breeding Program between 1999 and 2020](https://doi.org/10.3389/fpls.2024.1416538). *Frontiers in Plant Science*
 * Naghavi, M. et al (2024), [Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021](). *The Lancet*
